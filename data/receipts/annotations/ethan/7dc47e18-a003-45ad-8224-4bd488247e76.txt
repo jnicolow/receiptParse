@@ -1,0 +1,35 @@
+Halal Gyro Kabob House
+240 EAST DELAWARE AVENUE
+NEWARK, DE 19711
+4439937029
+https://www.halalgyrokabobhouse.com
+ORDER: 77
+For Here
+Cashier: Employee
+06-Jul-2023 7:57:49P
+Transaction 244806
+1
+#18. Lamb Salad
+$13.99
+Total
+$13.99
+Tip
+$2.10
+CREDIT CARD AUTH
+$16.09
+VISA 2130
+Retain this copy for statement validation
+06-Jul-2023 7:57:59P
+$16.09 <UNKNOWN> Method: CONTACTLESS
+VISA CREDIT <UNKNOWN>
+Reference ID: 318700509347 <UNKNOWN> Auth ID:
+02779D
+MID: ********3889
+AID: A0000000031010
+AthNtwkNm: VISA
+Online: https://clover.com/p
+/GD5PY93HP0HMM
+Clover ID: TEXFAZ7ZA34GM
+Payment <UNKNOWN>
+Clover Privacy Policy
+https://clover.com/privacy
