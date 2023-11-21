@@ -2,7 +2,7 @@
 ICS 438 UHM
 
 # components:
-1. Prompt convert tex to structured data
+1. Prompt convert tex to structured data \n
 	Tests:
 		Make sure it generates correct data
 		Make sure you handle edge cases
