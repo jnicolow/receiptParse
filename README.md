@@ -11,10 +11,11 @@ https://docs.google.com/document/d/1LyJrn1z1Mgx_QmKfL_R1R5vSdxHW_-LWJS5iWwRf34k/
 			data not in the correct type (like phone number is (808).. instead of as a number)
 			LLM returning text or invalid JSON
 3. Identify category for vender
+   
 	Get embeddings for title and ingredients then do KNN or something
 	Tests:
 		Make sure it predicts 1 of the 7 categories and also that it gives the correct categories
 
-4. Identify category of embeddings
+5. Identify category of embeddings
 		
 
