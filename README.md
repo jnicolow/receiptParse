@@ -1,6 +1,6 @@
 # receiptParse
 ICS 438 UHM
-(https://docs.google.com/document/d/1LyJrn1z1Mgx_QmKfL_R1R5vSdxHW_-LWJS5iWwRf34k/edit?usp=sharing)[https://docs.google.com/document/d/1LyJrn1z1Mgx_QmKfL_R1R5vSdxHW_-LWJS5iWwRf34k/edit?usp=sharing]
+https://docs.google.com/document/d/1LyJrn1z1Mgx_QmKfL_R1R5vSdxHW_-LWJS5iWwRf34k/edit?usp=sharing
 # components:
 1. Prompt convert tex to structured data
 	Tests:
