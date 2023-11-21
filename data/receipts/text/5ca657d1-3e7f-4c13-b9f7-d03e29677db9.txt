@@ -1,0 +1,66 @@
+H
+MART <UNKNOWN>
+http://www.hmart.com
+458 Keawe st
+Honolulu, <UNKNOWN> 96813
+TEL <UNKNOWN>
+Your Cashier was
+SY RAMEN HOT MULTI
+8.99 B
+IND MI GORENG NOOD
+4.99 B
+HT BEEF DUMPLING D
+19.99 B
+NS SHRIMP HOT SNCK
+1.99 B
+ME AZUKI ICE CREAM
+6.49 B
+TAX
+2.00
+**** BALANCE
+44.45
+Discover Credit - C
+ACCOUNT <UNKNOWN>
+***********1153
+APPROVAL CODE: 01669R
+SEQUENCE NUMBER: 33790
+No CVM
+Amount:USD $44.45
+CARD:Discover CREDIT XXXX1153 EMV
+APPROVAL CODE 01669R
+AID:A0000001523010
+TVR: 0000008000
+<UNKNOWN>
+TSI: E800
+APPLICATION CRYPTOGRAM A433DC30B1FE402
+APPLICATION PREFERRED NAME:Discover Cr
+APPLICATION LABEL:Discover
+<UNKNOWN>
+ARC:00
+RespDate: 07152023
+Resp <UNKNOWN> 201640
+<UNKNOWN>
+TOTAL AMOUNT: $44.45
+RESPONSE CODE: APPROVED
+07/15/23 08:16pm 103 2
+Discover
+44.45
+CHANGE
+0.00
+TOTAL NUMBER OF ITEMS SOLD =
+5
+07/15/23 08:17pm 81 2 281 103
+** RETURN POLICY **
+Unused product can be exchanged or
+refunded with receipt within 7 days of
+purchase unless otherwise noted below
+Meat, fish, produce and refrigerated
+food items must be returned with
+receipt within 24 hours.
+Electronics and <UNKNOWN> Must be
+returned with receipt within 14 days
+of purchase and must be unused.
+If you are unable to <UNKNOWN> item to
+store. please call customer service.
+00008100202812307152017
+<UNKNOWN> Thank You and Please Come Again **
