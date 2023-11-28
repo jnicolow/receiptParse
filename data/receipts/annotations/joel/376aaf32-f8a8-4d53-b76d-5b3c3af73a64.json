@@ -1,0 +1,50 @@
+{
+    "text":"get txt from:data\\receipts\\annotations\\joel\\376aaf32-f8a8-4d53-b76d-5b3c3af73a64.txt",
+    "spans":[
+        {
+            "start": [1, 1],
+            "end": [1,10],
+            "label": "merchant"
+        },
+        {
+            "start": [4, 3],
+            "end": [4, 5],
+            "label": "phoneNumber"
+        },
+        {
+            "start": [4, 9],
+            "end": [4, 11],
+            "label": "phoneNumber"
+        },
+        {
+            "start": [4, 23],
+            "end": [4, 26],
+            "label": "phoneNumber"
+        },
+        {
+            "start": [32, 1],
+            "end": [36, 4],
+            "label": "tax"
+        },
+        {
+            "start": [36, 1],
+            "end": [36, 5],
+            "label": "total"
+        },
+        {
+            "start": [5, 1],
+            "end": [11, 8],
+            "label": "receiptDate"
+        },
+        {
+            "start": [5, 10],
+            "end": [5, 14],
+            "label": "receiptTime"
+        },
+        {
+            "start": [5, 10],
+            "end": [5, 14],
+            "label": ""
+        },
+    ]
+}
