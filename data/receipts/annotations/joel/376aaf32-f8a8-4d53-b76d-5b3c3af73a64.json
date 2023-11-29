@@ -1,50 +1,92 @@
 {
-    "text":"get txt from:data\\receipts\\annotations\\joel\\376aaf32-f8a8-4d53-b76d-5b3c3af73a64.txt",
-    "spans":[
+    "ReceiptInfo": {
+      "merchant": "sam's club",
+      "address": "",
+      "city": "",
+      "state": "",
+      "phoneNumber": "( 808 ) 945 <UNKNOWN> 9841",
+      "tax": 3.32,
+      "total": 74.20,
+      "receiptDate": "05/13/23",
+      "receiptTime":"19:17",
+      "ITEMS": [
         {
-            "start": [1, 1],
-            "end": [1,10],
-            "label": "merchant"
+            "description": "EZPEELSHRIN",
+            "quantity": 1,
+            "unitPrice": 16.98,
+            "totalPrice": 16.98,
+            "discountAmount":null 
         },
         {
-            "start": [4, 3],
-            "end": [4, 5],
-            "label": "phoneNumber"
+            "description": "",
+            "quantity": ,
+            "unitPrice": ,
+            "totalPrice": ,
+            "discountAmount":null
         },
         {
-            "start": [4, 9],
-            "end": [4, 11],
-            "label": "phoneNumber"
+            "description": "DC 24PK CAN",
+            "quantity": 1,
+            "unitPrice": 11.58,
+            "totalPrice": 11.58,
+            "discountAmount":null
         },
         {
-            "start": [4, 23],
-            "end": [4, 26],
-            "label": "phoneNumber"
+            "description": "HI DEPOSIT",
+            "quantity": 1,
+            "unitPrice": 1.20,
+            "totalPrice": 1.20,
+            "discountAmount":null
         },
         {
-            "start": [32, 1],
-            "end": [36, 4],
-            "label": "tax"
+            "description": "HI DEPOSIT",
+            "quantity": 1,
+            "unitPrice": 1.20,
+            "totalPrice": 1.20,
+            "discountAmount":null
         },
         {
-            "start": [36, 1],
-            "end": [36, 5],
-            "label": "total"
+            "description": "HI HANDLING",
+            "quantity": 1,
+            "unitPrice": 0.24,
+            "totalPrice": 0.24,
+            "discountAmount":null
         },
         {
-            "start": [5, 1],
-            "end": [11, 8],
-            "label": "receiptDate"
+            "description": "MIXED NUTS",
+            "quantity": 1,
+            "unitPrice": 9.98,
+            "totalPrice": 9.98,
+            "discountAmount":null
         },
         {
-            "start": [5, 10],
-            "end": [5, 14],
-            "label": "receiptTime"
+            "description": "DORITOS COO",
+            "quantity": 1,
+            "unitPrice": 5.96,
+            "totalPrice": 5.96,
+            "discountAmount":null
         },
         {
-            "start": [5, 10],
-            "end": [5, 14],
-            "label": ""
+            "description": "<UNKNOWN> 150",
+            "quantity": 1,
+            "unitPrice": 5.96,
+            "totalPrice": 5.96,
+            "discountAmount":null
         },
-    ]
-}
+        {
+            "description": "BASHATI <UNKNOWN>",
+            "quantity": 1,
+            "unitPrice": 5.96,
+            "totalPrice": 5.96,
+            "discountAmount":null
+        },
+        {
+            "description": "U INST SVDORITOS COO",
+            "quantity": 1,
+            "unitPrice": 5.96,
+            "totalPrice": 5.96,
+            "discountAmount":null
+        }
+      ]
+    }
+  }
