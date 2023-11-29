@@ -14,14 +14,15 @@
           "description": "Plate",
           "quantity": 1,
           "unitPrice": 10.60,
-          "totalPrice": 10.60
+          "totalPrice": 10.60,
+          "ingredients": ["FRIED RICE-1/2","FRIED <UNKNOWN>","STR BN CKN BRST","ORANGE CKN"]
         },
         {
           "description": "XTRA ENTREE",
           "quantity": 1,
           "unitPrice": 1.50,
-          "totalPrice": ,
-          "discountAmount":
+          "totalPrice": 1.50,
+          "ingredients":["VEG SPRING <UNKNOWN>", "<UNKNOWN>"]
         }
       ]
     }
