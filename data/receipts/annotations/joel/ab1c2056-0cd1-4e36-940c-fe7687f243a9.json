@@ -1,0 +1,22 @@
+{
+    "ReceiptInfo": {
+      "merchant": "See's Candies, Inc",
+      "address": "4211 Waialae Ave",
+      "city": "Honolulu",
+      "state": "HI",
+      "phoneNumber": "808-737-9592",
+      "tax": 0.25,
+      "total": 5.65,
+      "receiptDate": "7/3/23",
+      "receiptTime":"2:52 PM",
+      "ITEMS": [
+        {
+            "description": "Chocolate Colored Film",
+            "quantity": 2,
+            "unitPrice": 1.35,
+            "totalPrice": 5.40,
+            "discountAmount":null 
+        }
+      ]
+    }
+  }
