@@ -1,15 +1,13 @@
 {
     "ReceiptInfo": {
-      "merchant": "H
-<UNKNOWN>
-MART",
+      "merchant": "H <UNKNOWN> MART",
       "address": "458 Keawe st",
       "city": "Honolulu",
       "state": "<UNKNOWN>",
       "phoneNumber": "(808) 219-0924",
       "tax": 1.65,
       "total": 36.61,
-      "receiptDate": 06/11/23",
+      "receiptDate": "06/11/23",
       "receiptTime": "09:15pm",
       "ITEMS": [
         {
@@ -20,8 +18,7 @@ MART",
             "discountAmount":null 
         },
         {
-            "description": "K-T TOPPOKI
-PC",
+            "description": "K-T TOPPOKI PC",
             "quantity": 1,
             "unitPrice": 3.30,
             "totalPrice": 3.30,
