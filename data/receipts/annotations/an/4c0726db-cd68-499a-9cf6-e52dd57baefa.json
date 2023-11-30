@@ -1,0 +1,43 @@
+{
+    "ReceiptInfo": {
+      "merchant": "H <UNKNOWN> MART",
+      "address": "458 Keawe st",
+      "city": "Honolulu",
+      "state": "<UNKNOWN>",
+      "phoneNumber": "(808) 219-0924",
+      "tax": 1.65,
+      "total": 36.61,
+      "receiptDate": "06/11/23",
+      "receiptTime": "09:15pm",
+      "ITEMS": [
+        {
+            "description": "WANG DANGMYUN",
+            "quantity": 1,
+            "unitPrice": 6.99,
+            "totalPrice": 6.99,
+            "discountAmount":null 
+        },
+        {
+            "description": "K-T TOPPOKI PC",
+            "quantity": 1,
+            "unitPrice": 3.30,
+            "totalPrice": 3.30,
+            "discountAmount":null
+        },
+        {
+            "description": "OTG SOUP RICECAKE",
+            "quantity": 1,
+            "unitPrice": 7.99,
+            "totalPrice": 7.99,
+            "discountAmount":null
+        },
+        {
+            "description": "HT VEGE DUMPLING",
+            "quantity": 1,
+            "unitPrice": 14.99,
+            "totalPrice": 14.99,
+            "discountAmount":null
+        },
+      ]
+    }
+  }
