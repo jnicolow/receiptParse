@@ -1,0 +1,29 @@
+{
+    "ReceiptInfo": {
+      "merchant": "McDonald's Restaurant",
+      "address": "3549 RUSSETT GREEN E",
+      "city": "LAUREL",
+      "state": "MD",
+      "phoneNumber": "301-7767980",
+      "tax": 0.48,
+      "total": 8.56,
+      "receiptDate": "07/04/2023",
+      "receiptTime":"04:24 PM",
+      "ITEMS": [
+        {
+          "description": "Happy Meal Ch Burger",
+          "quantity": 1,
+          "unitPrice": 4.39,
+          "totalPrice": 4.39,
+          "discountAmount":null
+        },
+        {
+          "description": "S Grimace Bday Shake",
+          "quantity": 1,
+          "unitPrice": 3.69,
+          "totalPrice": 3.69,
+          "discountAmount":null
+        }
+      ]
+    }
+  } 
