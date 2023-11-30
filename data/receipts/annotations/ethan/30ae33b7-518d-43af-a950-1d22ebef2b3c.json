@@ -1,0 +1,39 @@
+{
+    "ReceiptInfo": {
+      "merchant": "Longs <UNKNOWN> <UNKNOWN>",
+      "address": "HONOLULU, HI 96816 <UNKNOWN> 0781",
+      "city": "HONOLULU",
+      "state": "HI",
+      "phoneNumber": "<UNKNOWN> 0781",
+      "tax": ,
+      "total": 18.18,
+      "receiptDate": "JUNE 8, 2023",
+      "receiptTime":"6:17 PM",
+      "ITEMS": [
+        {
+          "description": "CFRIO SF PEG BAG 3Z",
+          "quantity": 1,
+          "unitPrice": 4.59,
+          "totalPrice": 4.59
+        },
+        {
+          "description": "HLMRK EVERYDY CARD ASST",
+          "quantity": 1,
+          "unitPrice": 4.99,
+          "totalPrice": 4.99
+        },
+        {
+          "description": "HLMRK EVERYDY CARD ASST",
+          "quantity": 1,
+          "unitPrice": 4.99,
+          "totalPrice": 4.99
+        },
+        {
+          "description": "TROLLI SOUR CRAWLR 5Z",
+          "quantity": 1,
+          "unitPrice": 2.79,
+          "totalPrice": 2.79
+        }
+      ]
+    }
+  } 

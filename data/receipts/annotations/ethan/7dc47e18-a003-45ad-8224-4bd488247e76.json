@@ -1,0 +1,21 @@
+{
+    "ReceiptInfo": {
+      "merchant": "Halal Gyro Kabob House",
+      "address": "240 EAST DELAWARE AVENUE NEWARK, DE 19711",
+      "city": "NEWARK",
+      "state": "DE",
+      "phoneNumber": "4439937029",
+      "tax": ,
+      "total": 13.99,
+      "receiptDate": "06-Jul-2023",
+      "receiptTime":"7:57:59P",
+      "ITEMS": [
+        {
+          "description": "#18. Lamb Salad",
+          "quantity": 1,
+          "unitPrice": 13.99,
+          "totalPrice": 13.99
+        }
+      ]
+    }
+  } 
