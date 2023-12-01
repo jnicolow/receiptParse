@@ -1,9 +1,9 @@
 {
     "ReceiptInfo": {
       "merchant": "sam's club",
-      "address": "",
-      "city": "",
-      "state": "",
+      "address": null,
+      "city": null,
+      "state": null,
       "phoneNumber": "( 808 ) 945 <UNKNOWN> 9841",
       "tax": 3.32,
       "total": 74.20,
