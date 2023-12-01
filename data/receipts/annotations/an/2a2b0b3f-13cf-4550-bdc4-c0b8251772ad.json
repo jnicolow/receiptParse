@@ -1,0 +1,29 @@
+{
+    "ReceiptInfo": {
+      "merchant": "Walmart",
+      "address": "3549 RUSSETT GRN",
+      "city": "LAUREL",
+      "state": "MD",
+      "phoneNumber": "301-604-0180",
+      "tax": 0.12,
+      "total": 22.08,
+      "receiptDate": "07/04/23",
+      "receiptTime": "16:20:22",
+      "ITEMS": [
+        {
+            "description": "<UNKNOWN> PRK SB",
+            "quantity": 1,
+            "unitPrice": 1.98,
+            "totalPrice": 1.98,
+            "discountAmount":null 
+        },
+        {
+            "description": "BOOSTER",
+            "quantity": 1,
+            "unitPrice": 19.98,
+            "totalPrice": 19.98,
+            "discountAmount":null
+        },
+      ]
+    }
+  }
