@@ -1,0 +1,65 @@
+<UNKNOWN>
+#003738 HONOLULU
+1024 Piikoi St.
+Honolulu, HI 96814
+PHONE 808-593-4444
+Welcome to Daiso,
+Enjoy your shopping.
+05/21/2022 1:04pm RCPT NO.38906
+REG:03 CSH:00001072
+4549892004810
+Multipurpose Living Box 4.00 T
+4979909885949
+Freezer Bag -With Seal - M - 25 <UNKNOWN>
+- F
+1.50 X 2
+3.00 T
+4984343708853
+Freezer plastic bag Ssize for freezin
+g C
+1.50 X 2
+3.00 T
+4549131590098
+DAISO GO Alkaline Battery LR03-5PCS
+1.50 X 2
+3.00 T
+2910000001502
+1.50$
+1.50 T
+SUB TOTAL
+14.50
+TAX TOTAL (EX)
+0.68
+TOTAL
+$15.18
+CREDIT
+15.18
+CHANGE
+0.00
+# ITEMS SOLD 8
+Credit Receipt
+*** Cardholder Copy ***
+Amount
+15.18
+Card Type
+VISA
+Expiration Date
+XX/XX
+Account No.
+XXXX XXXX XXXX 2925
+Date
+05/21/2022
+Approval No.
+02839D
+38906002
+Ref:
+EMV Receipt Section
+Indicator:CHIP
+Application Label: CHASE VISA
+TC: 95A9B1E791156058
+TVR: 0080008000
+AID: A0000000031010
+IAD: 0602120360A006
+Thank you!
+All sales are <UNKNOWN>
+No Returns or Exchanges.

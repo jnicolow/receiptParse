@@ -1,0 +1,46 @@
+Hawaii
+Wet'N'Wild Hawaii
+Water Park
+Sarah
+08/06/2023 10:36
+<UNKNOWN> 323103010814
+Regstr 103 Park 10
+Qty
+Description
+Price
+1 2023 Gold Pass $79.99
+$79.99
+1 2023 Season Pass $59.99
+$59.99
+Subtotal
+$139.98
+Tax
+$6.60
+Total
+$146.58
+PURCHASE
+APPROVED
+Total:
+$146.58
+Card Type:
+VISA
+Card Entry:
+Contactless
+Acct #:
+2130
+Approval Code: 08005D
+EMV PURCHASE
+App Label:
+VISA CREDIT
+Mode:
+Issuer
+AID: A0000000031010
+TVR: 0000000000
+IAD: 06021203A00000
+TSI:
+ARC: 00
+AC: <UNKNOWN>
+<UNKNOWN>
+Change Due
+$0.00
+MAHALO

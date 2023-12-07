@@ -1,0 +1,22 @@
+LILIHA BAKERY <UNKNOWN> PEARL CITY
+Pearl Highlands Center
+Pearl City, HI 96782
+(808)455-1188
+Check 375997/1 Cashier: POS1 AM
+10/21/2023 5:46:41 PM
+Bakery
+10
+Poi Donut
+20.90
+1
+Coco Puff 6
+12.50
+6
+Green Tea Puff
+13.74
+SUB TOTAL
+47.14
+Sales Tax
+2.22
+TOTAL
+49.36

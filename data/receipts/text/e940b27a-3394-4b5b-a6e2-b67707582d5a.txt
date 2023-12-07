@@ -1,0 +1,38 @@
+University of Hawaii - Manoa Bookstore
+2465 Campus Road
+Honolulu, HI 96822
+808-956-9645
+MAN-00351694-25
+001 Manoa PrismPOS
+001 University of Hawaii Manoa Manoa Reg 7
+TAOC
+10/31/2023 14:57
+Qty Description
+Tax Sale Price
+SKU
+Cat # / ISBN
+1 LABCOAT UNISEX L WHITE
+N N $26.95
+11477082 (N)
+3187 L
+1 GOGGLES SAFETY GREEN
+N N $4.50
+11468363 (N)
+151FF
+Subtotal :
+$31.45
+Taxes:
+NOT TAXABLE
+$0.00
+Tax Total:
+$0.00
+<UNKNOWN>
+$31.45
+Tenders:
+CHARGE CARDS
+$31.45
+Number: 7702
+Auth Code: 03163R
+Invoice Number: 0100399011
+Change Due:
+$0.00

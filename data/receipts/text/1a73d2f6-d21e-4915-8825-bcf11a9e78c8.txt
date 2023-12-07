@@ -1,0 +1,58 @@
+H
+<UNKNOWN>
+MART
+<UNKNOWN>
+458 Keawe st
+Honolulu, HI. 96813
+TEL (808) 219-0924
+Your Cashier was LICHUAN
+3.62 <UNKNOWN> @ 0.99 /lb
+WT
+3.58 B
+KABOCHA
+MINT
+1.99 <UNKNOWN>
+TAX
+0.26
+**** BALANCE
+5.83
+Visa Credit - H
+ACCOUNT NUMBER
+************2925
+APPROVAL CODE: 08182D
+SEQUENCE NUMBER: 1429
+No CVM
+Amount:USD $5.83
+CARD:VISA CREDIT CREDIT XXXX2925 CTLS
+APPROVAL CODE:08182D
+AID:A0000000031010
+TVR:0000000000
+TSI:0000
+APPLICATION PREFERRED <UNKNOWN> VISA
+APPLICATION <UNKNOWN> CREDIT
+TC 532EF6F78C156C1A
+<UNKNOWN> 04172022
+Resp Time 174642
+<UNKNOWN>
+TOTAL AMOUNT: $5.83
+RESPONSE CODE: APPROVED
+04/17/22 05:46pm 110 20
+Visa
+CHANGE
+5.83
+TOTAL NUMBER OF ITEMS SOLD =
+0.00
+04/17/22 05:46pm 81 20 356 110
+2
+** RETURN POLICY **
+Unused product can be exchanged
+refunded with receipt within 7 days or
+purchase unless otherwise noted below of
+Meat, fish, produce and refrigerated
+food items must be returned with
+receipt within 24 <UNKNOWN>
+Electronics and <UNKNOWN> Must be
+returned with receipt within 14 days
+of purchase and must be unused.
+If you are unable to bring item
+store. please call customer service. to

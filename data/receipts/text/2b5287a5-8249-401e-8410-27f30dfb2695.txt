@@ -1,0 +1,69 @@
+Taco Bell 002491
+<UNKNOWN>
+376 Kamehameha Hwy
+Pearl City, HI 96782
+GIV
+(808)486-9697
+10/13/2023
+1:12:30 PM
+<UNKNOWN>
+EA
+Order 331005
+Cashier: Robert C
+ON
+1 Beef Crunchy Taco
+1.79
+1 Beef Soft Taco
+1.79
+BACK
+1 Chzy Bean Rice Bur
+1.89
+<UNKNOWN>
+1 Chips N Cheese
+2.79
+7 Mild Sauce
+0.00
+SubTotal
+8.26
+Tax
+0.39
+$500
+Total
+8.65
+Visa
+8.65
+CASH
+Acct : <UNKNOWN>
+Approval : 06916D
+Entry Mode: Contactless
+<UNKNOWN>
+APL:
+VISA CREDIT
+AID:
+A0000000031010
+ON
+TVR:
+0000000000
+TSI:
+0000
+BACK
+IAD:
+06011203A00000
+-
+CVM:
+NONE
+Order Number 405
+$500
+Total Items in Order: 4
+CASH
+Start earning FREE rewards now.
+Download the Taco Bell App &
+<UNKNOWN>
+Scan the barcode below to get your <UNKNOWN>
+Terms and exclusions apply
+ON
+BACK
+6154401510867
+-
+<UNKNOWN>
+$

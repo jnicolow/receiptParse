@@ -1,0 +1,26 @@
+Taste Tea
+3221 Waialae Ave
+October 23, 2023
+unit A5
+3:52 PM
+Honolulu, HI
+96816
+(808) 732-9888
+Receipt: 7XTX
+Authorization: 06843D
+VISA CREDIT
+AID AO <UNKNOWN>
+Verified on Device
+Blended Milk Tea
+$6.50
+Small Tap ($0.75), Honeydew, Black
+Subtotal
+$6.50
+GET (4.712%)
+$0.31
+Tip
+$1.00
+Total
+$7.81
+Visa 1301 (Contactless)
+$7.81
