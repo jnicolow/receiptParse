@@ -1,6 +1,7 @@
 import os
+print(os.getcwd())
 basename = os.path.basename(os.getcwd())
-if basename == 'receiptParse':
+if basename == 'receipt_parse':
     os.chdir(os.path.dirname(os.getcwd())) # this is important we have to change the working directory back one
 elif 'ICS-438' in basename:
     os.chdir(os.path.join(os.getcwd(), 'receiptParse')) # 
@@ -36,8 +37,9 @@ for annotatorDir in annotatorDirs:
             "JSONobj":JSONobj.replace('{', '{{{{').replace('}', '}}}}')
             }
         examples.append(exampleDict)
-
-for promptTemplateFile in glob(os.path.join('receiptParse', 'prompt_templates', 'prompt_template_*.txt')):
+    
+for promptTemplateFile in glob(os.path.join('receipt_parse', 'prompt_templates', 'prompt_template_*.txt')):
+  print(promptTemplateFile)
   with open(promptTemplateFile, 'r') as f: promptTemplate = f.read()
   example_prompt = PromptTemplate(input_variables=["rawRecieptText", "JSONobj"], 
                               template=promptTemplate)
@@ -49,6 +51,8 @@ for promptTemplateFile in glob(os.path.join('receiptParse', 'prompt_templates', 
       input_variables=["input"]
   )
 
+#   print(prompt.format(input="recieptTxt"))
+
 
 
   #### Create Chain ####
@@ -56,9 +60,10 @@ for promptTemplateFile in glob(os.path.join('receiptParse', 'prompt_templates', 
 
 
   #### Run inference on reciepts ####
-  prompt = os.path.basename(promptTemplateFile).split('.txt')[0]#.split('_')[-1] e.g. prompt_template_1
+  prompt = os.path.basename(promptTemplateFile).split('.txt')[0].replace('_', '')#.split('_')[-1] e.g. prompt_template_1
   recieptFiles = glob(os.path.join('data', 'receipts', 'text', '*.txt'))
   for recieptFn in recieptFiles:
+      print(recieptFn)
       with open(recieptFn, 'r') as f: recieptTxt = f.read()
       response = chain.invoke({'input':recieptTxt})
       data_dict = json.loads(response.content)
