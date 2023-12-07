@@ -1,0 +1,57 @@
+SAFEWAY
+<UNKNOWN>
+Store 204 Dir Chris Brannum
+<UNKNOWN> (808) 988-2058
+2855 East Manoa Road
+HONOLULU HI 96822
+REFRIG/FROZEN
+SIG ICE CREAM BAR
+2.99 B
+Regular Price
+3.99
+Member Savings
+1.00-
+TAX
+0.14
+**** BALANCE
+3.13
+Credit Purchase 06/05/22 15:28
+CARD # *2925
+<UNKNOWN> 052836429250 AUTH: 0005127D
+PAYMENT AMOUNT
+3.13
+AL VISA CREDIT
+AID A0000000031010
+TVR 0000000000
+TSI 0000
+Visa
+3.13
+CHANGE
+0.00
+TOTAL NUMBER OF ITEMS SOLD =
+1
+06/05/22 15:28 204 2 216 2766
+POINTS EARNED TODAY
+Base Points 2
+Total 2
+Points Towards Next Reward 14 of 100
+REWARDS AVAILABLE
+1
+YOUR CASHIER TODAY WAS TY
+YOUR SAVINGS
+Member Savings
+1.00
+Total
+1.00
+Total Savings Value
+25%
+00020400202162206051528
+flavor
+adventure
+<UNKNOWN> <UNKNOWN> <UNKNOWN>
+NO PURCHASE <UNKNOWN>
+<UNKNOWN> Prize Details and Official Rules Visit
+afeway.com/flavoradventure/start
+Thank you for shopping <UNKNOWN>
+For SAFEWAY FOR U questions call
+877-276-9637 or Safeway.com/foru

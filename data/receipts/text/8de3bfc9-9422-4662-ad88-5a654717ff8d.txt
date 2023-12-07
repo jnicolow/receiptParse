@@ -1,0 +1,63 @@
+Honolulu Store
+2525 South King Street
+Honolulu,HI,96826
+808 947 7678
+#040-003 6/17/2023 11:39:07 JOLENE
+Inv#:00139568 Trs#: 144471
+1000009989 CARDAMOM POWDER 0 $5.96 T1F
+0.07 <UNKNOWN> @ $85.19/1b
+Reg Prc: $85.19
+1000046617 CINN VIETNAMESE 0 $3.54 T1F
+0.20 <UNKNOWN> @ $17.69/lb
+Reg Prc: $17.69
+1000035513 CUMIN SEED GROUND $2.18 T1F
+0.09 <UNKNOWN> @ $24.19/lb
+Reg Prc: $24.19
+Net Sales
+$11.68
+Tax 1 [$11.68]
+$0.55
+TOTAL SALES
+$12.23
+SUB TOTAL
+$12.23
+Visa
+$12.23
+# ************2130
+Item count
+3
+NETWORK.ID:VISA
+MODE:Online(Issuer)
+TYPE : Purchase
+TENDER : Visa
+CARD : <UNKNOWN>
+Contactless EMV
+AMOUNT
+: USD$12.23
+RESULT
+: 02 APPROVAL
+DATE/TIME : JUN 17 2023 12:39
+SEQUENCE <UNKNOWN> 635027
+AUTHOR. # : 07357D
+LABEL: CHASE VISA
+AID : A0000000031010
+Let us know how we're doing?
+Take a quick survey at:
+feedback.downtoearth.org
+E Malama I Ka 'Aina, E Ola Pono
+Cherish the Land, Live in Health
+and Harmony
+Natural Living Return Policy
+<UNKNOWN> Books, CDs, DVDs, yoga <UNKNOWN> water
+bottles, juicers, appliances, essential
+oil diffusers, essential oils, empty spray
+bottles gifts and clothing may be returned
+in a saleable condition for exchange or
+refund within 30 days of purchase, and
+accompanied by a receipt.
+<UNKNOWN> Outside the 30 day return period
+appliances should be sent for repair by
+the customer directly to the
+as they are covered by
+manufacturer and/or guarantee.
+<UNKNOWN> All sales are final on clearance items,

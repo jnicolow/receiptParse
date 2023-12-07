@@ -1,0 +1,49 @@
+Welcome to Dunkin
+Store <UNKNOWN> 357424
+2560 McCarthy Mall
+Honolulu, HI 96822
+(808) 956-6728
+128321 Robert
+CHK 2388
+5/5/2022 11:06 AM
+Eat In
+1 Md Ice Orig Latte
+4.99
+Visa
+$5.23
+************2925
+Tran Type : Purchase
+Entry Mode : INSERTED
+Auth Code : 01451D
+VISA CREDIT
+AID: A0000000031010
+No Signature Required
+I agree to pay the above total
+amount according to the card
+issuer
+(merchant agreement if credit
+voucher)
+Subtotal
+$4.99
+HI TAX
+$0.24
+Payment
+$5.23
+Change Due
+$0.00
+Check Closed
+5/5/2022 11:07 AM
+Donut forget to tell us about
+today's visit! Talk to us at
+<UNKNOWN>
+within 3 days and receive a
+FREE CLASSIC DONUT
+on your next visit when you
+purchase a Medium or Larger Beverage
+See restrictions on dunkindonuts.com
+Survey Code: 38801-57424-1105-0528
+Additional Discounts Will Not Be
+Applied to Promotional <UNKNOWN>
+Mahalo! Come Back Again.
+Additional Discounts Will Not Be
+Applied to Promotional <UNKNOWN>

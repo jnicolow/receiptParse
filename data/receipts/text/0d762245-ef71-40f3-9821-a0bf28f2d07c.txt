@@ -1,0 +1,52 @@
+<UNKNOWN>
+2HI001 See's Candies, Inc <UNKNOWN> )
+4211 <UNKNOWN> Ave
+Honolulu, HI 96816
+808-737-9592
+www.sees.com
+Store: 701
+Date: 4/25/22
+<UNKNOWN> 1
+Ticket: 482292
+Time: 6:50 PM
+Cashier: 070100000032
+Welcome to our store!
+Item
+Qty
+Price
+Amount
+BULK CANDY
+BULK
+0.3200
+31.50
+10.08
+Subtotal
+10.08
+HI1 Candy
+0.47
+Total
+10.55
+Visa
+10.55
+2925
+Auth #: 09604D
+Transaction Type: Sale
+Entry Method: Contactless
+Auth Time: 6:50 PM
+Trace <UNKNOWN> CREDIT-69967
+Card Holder Name: CARDHOLDER/VISA
+AID A0000000031010
+TVR 0000000000
+TSI 0000
+ARC 00
+APP VISA CREDIT
+0.00
+Change
+Thank you for shopping at See's <UNKNOWN>
+Come back soon.
+Now Hiring!
+Join a sweet team and apply at:
+Sees.com/careers or scan the QR code below:
+Sold Item Count = 1
+<UNKNOWN>
+Customer Copy

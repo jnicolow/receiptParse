@@ -1,0 +1,59 @@
+Receipt
+A Payment <UNKNOWN>
+L/R #15
+Ticket No. 018974
+T/D #06
+Entry Time
+06/18/2023 (Sun) 14:52
+Exit Time
+06/18/2023 (Sun) 15:27
+0:35
+Parking Time
+Parking Fee
+Rate A
+$3.00
+EMV AID #
+A0000000031010
+VISA
+Account #
+*****************2130
+Slip #
+16948
+Auth Code
+000002623D
+Credit Card Amount
+$3.00
+Total
+$3.00
+Thank You for Your Visit
+Please Come Again !
+Honolulu Intl Airport 0169
+300 RODGERS BLVD UNIT 30
+*
+EFTPOS
+<UNKNOWN>
+TERMINAL
+***1028
+18 Jun 23 15:27
+VISA
+CONTACTLESS
+AID
+A0000000031010
+APP LABEL
+CHASE VISA
+CARD
+************2130
+PAN SEQ Number
+01
+RRN
+317001167205
+AUTHORISATION
+02623D
+REFERENCE
+426128
+PURCHASE
+USD3.00
+TOTAL
+USD3.00
+APPROVED
+NO CARDHOLDER VERIFICATION
