@@ -1,0 +1,37 @@
+"""
+Can you extract the applicable information from raw text of a recipt. This information should be put into a valid JSON object with the structure below:
+
+{{{{
+  "ReceiptInfo": {{{{
+    "merchant": "(string value)",
+    "address": "(string value)",
+    "city": "(string value)",
+    "state": "(string value)",
+    "phoneNumber": "(string value)",
+    "tax": "(float value)",
+    "total": "(float value)",
+    "receiptDate": "(string value)",
+    "receiptTime": "(string value)",
+
+
+    "ITEMS": [
+      {{{{
+        "description": "(string value)",
+        "quantity": "(integer value)",
+        "unitPrice": "(float value)",
+        "totalPrice": "(float value)",
+        "discountAmount": "(float value)"
+      }}}}, ...
+    ]
+  }}}}
+}}}}
+
+The returned object should have all of these fields. If there is missing information the value should be null
+
+Below is an example of first reciept text:
+
+{rawRecieptText}
+
+The JSON object for this example:
+{JSONobj}
+"""
