@@ -37,66 +37,30 @@ for annotatorDir in annotatorDirs:
             }
         examples.append(exampleDict)
 
-example_prompt = PromptTemplate(input_variables=["rawRecieptText", "JSONobj"], 
-                                template="""
-Can you extract the applicable information from raw text of a recipt. This information should be put into a valid JSON object with the structure below:
+for promptTemplateFile in glob(os.path.join('receiptParse', 'prompt_templates', 'prompt_template_*.txt')):
+  with open(promptTemplateFile, 'r') as f: promptTemplate = f.read()
+  example_prompt = PromptTemplate(input_variables=["rawRecieptText", "JSONobj"], 
+                              template=promptTemplate)
 
-{{{{
-  "ReceiptInfo": {{{{
-    "merchant": "(string value)",
-    "address": "(string value)",
-    "city": "(string value)",
-    "state": "(string value)",
-    "phoneNumber": "(string value)",
-    "tax": "(float value)",
-    "total": "(float value)",
-    "receiptDate": "(string value)",
-    "receiptTime": "(string value)",
+  prompt = FewShotPromptTemplate(
+      examples=[examples[0]],
+      example_prompt=example_prompt,
+      suffix="Get JSON for this:\n{input}",
+      input_variables=["input"]
+  )
 
 
-    "ITEMS": [
-      {{{{
-        "description": "(string value)",
-        "quantity": "(integer value)",
-        "unitPrice": "(float value)",
-        "totalPrice": "(float value)",
-        "discountAmount": "(float value)"
-      }}}}, ...
-    ]
-  }}}}
-}}}}
 
-The returned object should have all of these fields. If there is missing information the value should be null
-
-Below is an example of first reciept text:
-
-{rawRecieptText}
-
-The JSON object for this example:
-{JSONobj}
-""")
+  #### Create Chain ####
+  chain = prompt | model # how to pass the prompt to the model (pipe prompt to model)
 
 
-prompt = FewShotPromptTemplate(
-    examples=[examples[0]], # only do one shot for now
-    example_prompt=example_prompt,
-    suffix="Get JSON for this:\n{input}",
-    input_variables=["input"]
-)
-
-print(prompt.format(input="recieptTxt"))
-
-
-#### Create Chain ####
-chain = prompt | model # how to pass the prompt to the model (pipe prompt to model)
-
-
-#### Run inference on reciepts ####
-prompt = 'test'
-recieptFiles = glob(os.path.join('data', 'receipts', 'text', '*.txt'))
-for recieptFn in recieptFiles:
-    with open(recieptFn, 'r') as f: recieptTxt = f.read()
-    response = chain.invoke({'input':recieptTxt})
-    data_dict = json.loads(response.content)
-    with open(os.path.join('data', 'receipts', 'json', f'{os.path.basename(recieptFn).split(".tx")[0]}_{prompt}.json'), 'w') as f: json.dump(data_dict, f)
-    break
+  #### Run inference on reciepts ####
+  prompt = os.path.basename(promptTemplateFile).split('.txt')[0]#.split('_')[-1] e.g. prompt_template_1
+  recieptFiles = glob(os.path.join('data', 'receipts', 'text', '*.txt'))
+  for recieptFn in recieptFiles:
+      with open(recieptFn, 'r') as f: recieptTxt = f.read()
+      response = chain.invoke({'input':recieptTxt})
+      data_dict = json.loads(response.content)
+      with open(os.path.join('data', 'receipts', 'json', f'{os.path.basename(recieptFn).split(".tx")[0]}_{prompt}.json'), 'w') as f: json.dump(data_dict, f)
+      break
