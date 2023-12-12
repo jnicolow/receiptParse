@@ -25,7 +25,11 @@ def recursive_entity_parse(json_dict, receipt_text):
 
 def read_json_from_path(path):
     with open(path, 'r') as f:
-        data = json.load(f)
+        try:
+            data = json.load(f)
+        except:
+            return -1
+
     return data
 
 def read_txt_from_path(path):
