@@ -23,35 +23,25 @@ def recursive_entity_parse(json_dict, receipt_text):
             output.append(find_span(str(json_dict[element]), receipt_text, element.upper()))         
     return output
 
-def read_json_from_path(path):
-    with open(path, 'r') as f:
-        try:
-            data = json.load(f)
-        except:
-            return -1
-
-    return data
-
-def read_txt_from_path(path):
-    f = open(path)
-    data = f.read()
-    f.close()
-    return data
-
 def make_txt_dict(path):
     output = {}
     for f in os.scandir(path):
         if(".txt" in f.name):
-            output[f.name.replace(".txt", "")] = read_txt_from_path(f)
+            file = open(f)
+            data = file.read()
+            file.close()
+            output[f.name.replace(".txt", "")] = data
     return output
 
 def make_json_file_dict(path):
     output = {}
     for f in os.scandir(path):
         if(".json" in f.name):
-            temp = read_json_from_path(f)
+            file = open(f)
+            json.load(file)
             key = f.name.replace(".json", "")
-            output[key] = temp
+            output[key] = file
+            f.close()
     return output
 
 receipts = make_txt_dict(receipt_txt_directory)
