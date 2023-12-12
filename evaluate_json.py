@@ -15,7 +15,6 @@ def find_span(text, entity_text, label):
 def recursive_entity_parse(json_dict, receipt_text):
     output = []
     for element in json_dict:
-        print(type(json_dict[element]))
         if(type(json_dict[element]) == dict or type(json_dict[element]) == list):
             output.append(recursive_entity_parse(json_dict[element], receipt_text))
         elif(type(json_dict[element]) == str):
@@ -25,9 +24,8 @@ def recursive_entity_parse(json_dict, receipt_text):
     return output
 
 def read_json_from_path(path):
-    f = open(path)
-    data = json.load(f)
-    f.close()
+    with open(path, 'r') as f:
+        data = json.load(f)
     return data
 
 def read_txt_from_path(path):
@@ -39,15 +37,17 @@ def read_txt_from_path(path):
 def make_txt_dict(path):
     output = {}
     for f in os.scandir(path):
-        if(f.is_file() and ".txt" in f.name):
+        if(".txt" in f.name):
             output[f.name.replace(".txt", "")] = read_txt_from_path(f)
     return output
 
 def make_json_file_dict(path):
     output = {}
     for f in os.scandir(path):
-        if(f.is_file() and ".json" in f.name):
-            output[f.name.replace(".json", "")] = read_json_from_path(f)
+        if(".json" in f.name):
+            temp = read_json_from_path(f)
+            key = f.name.replace(".json", "")
+            output[key] = temp
     return output
 
 receipts = make_txt_dict(receipt_txt_directory)
