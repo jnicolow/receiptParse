@@ -1,0 +1,29 @@
+{
+    "ReceiptInfo": {
+      "merchant": "Kozo Sushi",
+      "address": "2334 South King Street",
+      "city": "Honolulu",
+      "state": "HI",
+      "phoneNumber": null,
+      "tax": 0.33,
+      "total": 7.61,
+      "receiptDate": "4/7/23",
+      "receiptTime": "3:36 PM",
+      "ITEMS": [
+        {
+            "description": "2 Cucumber Maki",
+            "quantity": 1,
+            "unitPrice": 3.98,
+            "totalPrice": 3.98,
+            "discountAmount":null 
+        },
+        {
+            "description": "1 Shrimp Tempura Hr",
+            "quantity": 1,
+            "unitPrice": 3.30,
+            "totalPrice": 3.30,
+            "discountAmount":null
+        }
+      ]
+    }
+  }
