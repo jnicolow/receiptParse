@@ -5,7 +5,7 @@
       "city": "NEWARK",
       "state": "DE",
       "phoneNumber": "4439937029",
-      "tax": ,
+      "tax": null,
       "total": 13.99,
       "receiptDate": "06-Jul-2023",
       "receiptTime":"7:57:59P",
