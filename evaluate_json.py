@@ -48,19 +48,29 @@ def make_json_file_dict(path):
                 key = f.name.replace(".json", "")
                 output[key] = data
             except:
-                print("Error decoding json")
+                print("Error decoding json: " + f.name)
     return output
+
+def sort_entities(input_list):
+    output = {}
+    for element in input_list:
+        if(element["label"] == ""):
+            1
+        elif(element["label"] in output.keys()):
+            output[element["label"]] += [element]
+        else:
+            output[element["label"]] = [element]
+    return list(output.values())
 
 receipts = make_txt_dict(receipt_txt_directory)
 expected = make_json_file_dict(expected_json_directory)
 actual = make_json_file_dict(actual_json_directory)
 evaluations = {}
-tag_list = ['MECHANT']
+tag_list = ['MERCHANT']
 for element in expected:
     if(element in actual and element in receipts):
-        actual_parsed = recursive_entity_parse(actual[element], '', receipts[element])
-        expected_parsed = recursive_entity_parse(expected[element], '', receipts[element])
-        print(actual_parsed)
-    evaluator = Evaluator(expected_parsed, actual_parsed, tags=tag_list)
-    print(evaluator.evaluate())
-
+        actual_parsed = sort_entities(recursive_entity_parse(actual[element], '', receipts[element]))
+        expected_parsed = sort_entities(recursive_entity_parse(expected[element], '', receipts[element]))
+        evaluator = Evaluator(expected_parsed, actual_parsed, tags=tag_list)
+        results, results_by_tag = evaluator.evaluate()
+        print(results)
