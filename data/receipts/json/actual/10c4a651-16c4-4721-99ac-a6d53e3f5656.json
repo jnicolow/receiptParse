@@ -1,0 +1,69 @@
+{
+    "ReceiptInfo": {
+      "merchant": "Longs Drugs",
+      "address": "4211 WAIALAE AVE HONOLULU, HI 96816",
+      "city": "HONOLULU",
+      "state": "HI",
+      "phoneNumber": "808,732.0781",
+      "tax": 0.77,
+      "total": 17.24,
+      "receiptDate": "JULY 3, 2023",
+      "receiptTime":"2:48 PM",
+      "ITEMS": [
+        {
+          "description": "CFRIO SF PEG BAG 3Z",
+          "quantity": 1,
+          "unitPrice": 4.59,
+          "totalPrice": 4.59
+        },
+        {
+          "description": "CFRIO SF PEG BAG 3Z",
+          "quantity": 1,
+          "unitPrice": 4.59,
+          "totalPrice": 4.59
+        },
+        {
+          "description": "CFRIO SF PEG BAG 3Z",
+          "quantity": 1,
+          "unitPrice": 4.59,
+          "totalPrice": 4.59
+        },
+        {
+          "description": "HI CONTAINER FEE",
+          "quantity": 1,
+          "unitPrice": 0.01,
+          "totalPrice": 0.01
+        },
+        {
+          "description": "HI CONTAINER FEE",
+          "quantity": 1,
+          "unitPrice": 0.01,
+          "totalPrice": 0.01
+        },
+        {
+          "description": "1 CR GYSR SPR WTR 33.8",
+          "quantity": 1,
+          "unitPrice": 1.29,
+          "totalPrice": 1.29
+        },
+        {
+          "description": "1 CR GYSR SPR WTR 33.8",
+          "quantity": 1,
+          "unitPrice": 1.29,
+          "totalPrice": 1.29
+        },
+        {
+          "description": "1 BOTTLE DEPOSIT",
+          "quantity": 1,
+          "unitPrice": 0.05,
+          "totalPrice": 0.05
+        },
+        {
+          "description": "1 BOTTLE DEPOSIT",
+          "quantity": 1,
+          "unitPrice": 0.05,
+          "totalPrice": 0.05
+        }
+      ]
+    }
+  } 

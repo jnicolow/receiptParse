@@ -1,0 +1,71 @@
+{
+    "ReceiptInfo": {
+      "merchant": "sam's club",
+      "address": null,
+      "city": null,
+      "state": null,
+      "phoneNumber": "( 808 ) 945 <UNKNOWN> 9841",
+      "tax": 3.32,
+      "total": 74.20,
+      "receiptDate": "05/13/23",
+      "receiptTime":"19:17",
+      "ITEMS": [
+        {
+            "description": "EZPEELSHRIN",
+            "quantity": 1,
+            "unitPrice": 16.98,
+            "totalPrice": 16.98,
+            "discountAmount":null 
+        },
+        {
+            "description": "DC 24PK CAN",
+            "quantity": 1,
+            "unitPrice": 11.58,
+            "totalPrice": 11.58,
+            "discountAmount":null
+        },
+        {
+            "description": "HI DEPOSIT",
+            "quantity": 1,
+            "unitPrice": 1.20,
+            "totalPrice": 1.20,
+            "discountAmount":null
+        },
+        {
+            "description": "HI HANDLING",
+            "quantity": 1,
+            "unitPrice": 0.24,
+            "totalPrice": 0.24,
+            "discountAmount":null
+        },
+        {
+            "description": "MIXED NUTS",
+            "quantity": 1,
+            "unitPrice": 9.98,
+            "totalPrice": 9.98,
+            "discountAmount":null
+        },
+        {
+            "description": "DORITOS COO",
+            "quantity": 1,
+            "unitPrice": 5.96,
+            "totalPrice": 5.96,
+            "discountAmount":1.00
+        },
+        {
+            "description": "<UNKNOWN> 150",
+            "quantity": 1,
+            "unitPrice": 5.96,
+            "totalPrice": 5.96,
+            "discountAmount":null
+        },
+        {
+            "description": "BASHATI <UNKNOWN>",
+            "quantity": 1,
+            "unitPrice": 5.96,
+            "totalPrice": 5.96,
+            "discountAmount":null
+        }
+      ]
+    }
+  }
