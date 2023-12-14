@@ -1,0 +1,37 @@
+<UNKNOWN> Grove Music
+167 Hamakua Drive
+Suite 202
+Kailua, HI 96734
+<UNKNOWN>
+<UNKNOWN>
+10/8/2023
+12:31 PM
+<UNKNOWN>
+Rick
+Transaction:
+155335378
+Till:
+CGM <UNKNOWN> 1
+ITEM/DESC.
+QTY. PRICE DISCOUNT TOTAL
+ACCES0843 - Fender Dreadnought/12-
+String Case <UNKNOWN> Black
+1 149.99
+0.00 149.99
+Subtotal
+149.99
+Tax
+7.07
+TOTAL
+157.06
+Items Sold: 1
+Tender:
+Credit/Debit
+157.06
+Total Tender
+157.06
+RCT**155335378
+NO CASH REFUNDS. Exchange or store credit
+only and must be within 7 days of sale and
+accompanied by original receipt. We appreciate
+your business. Mahalo and jam on!

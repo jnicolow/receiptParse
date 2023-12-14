@@ -1,0 +1,29 @@
+STE 2041960 KAPIOLANI BLVD
+PHO 777
+HONOLULU, HI 968263975
+8089557770
+Cashier: Gravity Payments
+Transaction 300019
+Total
+$44.47
+CREDIT CARD AUTH
+$44.47
+VISA 2130
+Tip
+Total
+Retain this copy for statement
+validation
+26-Oct-2022 7:07:53P
+$44.47 I Method: EMV
+VISA CREDIT
+<UNKNOWN>
+MAHDI BELCAID
+Reference ID: 230000597536
+Auth ID: 02601D
+MID: ****7787
+AID: A0000000031010
+AthNtwkNm: VISA
+SIGNATURE VERIFIED
+Payment <UNKNOWN>
+Clover Privacy Policy
+https://clover.com/privacy

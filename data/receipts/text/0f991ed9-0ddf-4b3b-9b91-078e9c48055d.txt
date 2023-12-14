@@ -1,0 +1,26 @@
+Kahala - RECEIPT
+T/N :298780
+Date:18:55 Jul <UNKNOWN>
+Tax Invoice
+Sales Tax
+Item
+Qty
+Price
+Tax
+Price
+General
+1
+19.75
+0.89
+19.75
+Child
+1
+16.00
+0.72
+16.00
+Balance Due
+35.75
+Payment Type
+Amount
+Credit Card
+35.75

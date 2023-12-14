@@ -1,0 +1,50 @@
+<UNKNOWN> <UNKNOWN>
+<UNKNOWN>
+T&C Surf Designs Ala Moana
+Ala Moana Shopping Center
+1450 Ala Moana Blvd
+Honolulu, HI 96814
+808.973.5199
+Ticket #ALA-T11-687314
+User: KAP
+<UNKNOWN> 11
+Sales Rep NONE
+10/15/2023 12:20:46 PM
+Item
+Qty
+Price
+Total
+Description
+60011432
+1
+55.00
+55.00
+FT CUSHION VISTA VINTAGE
+VINTAGE, 8
+Qty: 1
+BAG FEE
+1
+0.15
+0.15
+SHOPPING BAG FEE
+Subtotal
+55.15
+Tax
+2.60
+Total
+57.75
+Tender:
+MC
+57.75
+XXXXXXXXXXXX3607
+Batch: 351
+Auth: 01331Z
+Entry Method: EMV Contact
+MASTERCARD
+AID: A0000000041010
+TVR: 0000008000
+TSI: E800
+AC: B4597B923CC79EB1
+CVM: sig
+Authorization Mode: ISSUER
+Number of items purchased:2
