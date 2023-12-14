@@ -9,8 +9,8 @@ For the "merchantCategory" field, determine the best option based on the items m
 
 Here is the JSON format to fill out:
 
-{
-  "ReceiptInfo": {
+{{{{
+  "ReceiptInfo": {{{{
     "merchant": "(string value)",
     "merchantCategory": "(string value)",
     "address": "(string value)",
@@ -21,30 +21,23 @@ Here is the JSON format to fill out:
     "total": "(float value)",
     "receiptDate": "(string value)",
     "receiptTime": "(string value)",
+
+
     "ITEMS": [
-      {
+      {{{{
         "description": "(string value)",
         "quantity": "(integer value)",
         "unitPrice": "(float value)",
         "totalPrice": "(float value)",
         "discountAmount": "(float value)"
-      },
-      {
-        "description": "(string value)",
-        "quantity": "(integer value)",
-        "unitPrice": "(float value)",
-        "totalPrice": "(float value)",
-        "discountAmount": "(float value)"
-      },
-      ...
+      }}}}, ...
     ]
-  }
-}
+  }}}}
+}}}}
 
-Here is an example receipt text data:
+Below is an example of first reciept text:
 
-{rawReceiptText}
+{rawRecieptText}
 
-and this is an example JSON object for that text:
-
+The JSON object for this example:
 {JSONobj}
