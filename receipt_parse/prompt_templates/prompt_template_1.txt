@@ -1,6 +1,7 @@
 """
 Can you extract the applicable information from raw text of a recipt. This information should be put into a valid JSON object with the structure below:
-Can you also choose the merchantCategory out of these categories:
+
+Can you also choose which of the following categories fits the merchant best and put it as the value of merchantCategory:
 Grocery and Supermarkets: This includes vendors selling a wide range of food products, household items, and often personal care products.
 Restaurants and Food Services: Encompassing a range of dining establishments, from fast food to fine dining, including take-out and delivery services.
 Clothing and Apparel: Stores selling clothing, footwear, and fashion accessories for various age groups and styles.
@@ -9,6 +10,7 @@ Electronics and Appliances: Vendors specializing in consumer electronics, househ
 Home and Garden: Vendors offering home improvement, gardening supplies, furniture, and home decor.
 Entertainment and Leisure: Includes movie theaters, bookstores, hobby shops, and other vendors providing entertainment goods and services.
 
+it is very important that you return a valid JSON object
 
 {{{{
   "ReceiptInfo": {{{{
