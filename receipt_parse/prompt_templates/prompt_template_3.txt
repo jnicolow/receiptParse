@@ -1,0 +1,50 @@
+Generate the following JSON format with the appropriate fields from text data I will pass to you. Ensure accuracy in parsing receipt information. Do not, under any circumstances, include any extraneous text in your response; only generate and return the JSON object in JSON format. Again, literally only generate and return the JSON object.
+
+The text data represents receipt information and may contain unknown or missing fields. Your task is to accurately extract and populate the JSON fields based on the provided text data. Utilize context, knowledge about receipt formatting, and mathematical analysis to achieve accuracy.
+
+If a field in the text data contains "<UNKNOWN>," include it in the JSON as "<UNKNOWN>."
+
+If there is no apparent matching information for a field, put "null" in that field.
+For the "merchantCategory" field, determine the best option based on the items mentioned in the receipt data. Choose from the following options: "Grocery and Supermarkets," "Restaurants and Food Services," "Clothing and Apparel," "Health and Beauty," "Electronics and Appliances," "Home and Garden," or "Entertainment and Leisure."
+
+Here is the JSON format to fill out:
+
+{
+  "ReceiptInfo": {
+    "merchant": "(string value)",
+    "merchantCategory": "(string value)",
+    "address": "(string value)",
+    "city": "(string value)",
+    "state": "(string value)",
+    "phoneNumber": "(string value)",
+    "tax": "(float value)",
+    "total": "(float value)",
+    "receiptDate": "(string value)",
+    "receiptTime": "(string value)",
+    "ITEMS": [
+      {
+        "description": "(string value)",
+        "quantity": "(integer value)",
+        "unitPrice": "(float value)",
+        "totalPrice": "(float value)",
+        "discountAmount": "(float value)"
+      },
+      {
+        "description": "(string value)",
+        "quantity": "(integer value)",
+        "unitPrice": "(float value)",
+        "totalPrice": "(float value)",
+        "discountAmount": "(float value)"
+      },
+      ...
+    ]
+  }
+}
+
+Here is an example receipt text data:
+
+{rawReceiptText}
+
+and this is an example JSON object for that text:
+
+{JSONobj}
