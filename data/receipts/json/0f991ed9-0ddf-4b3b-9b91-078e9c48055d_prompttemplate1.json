@@ -1,0 +1,1 @@
+{"ReceiptInfo": {"merchant": "Kahala", "address": null, "city": null, "state": null, "phoneNumber": null, "tax": null, "total": 35.75, "receiptDate": "Jul", "receiptTime": "18:55", "ITEMS": [{"description": "General", "quantity": 1, "unitPrice": 19.75, "totalPrice": 19.75}, {"description": "Child", "quantity": 1, "unitPrice": 16.0, "totalPrice": 16.0}]}}
