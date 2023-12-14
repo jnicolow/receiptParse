@@ -39,6 +39,7 @@ for jsonFile in jsonFiles:
 
 for promptTemplateFile in glob(os.path.join('receipt_parse', 'prompt_templates', 'prompt_template_*.txt')):
   print(promptTemplateFile)
+  if promptTemplateFile.endswith('1.txt'): continue # already processed reciepts with this prompt
   with open(promptTemplateFile, 'r') as f: promptTemplate = f.read()
   example_prompt = PromptTemplate(input_variables=["rawRecieptText", "JSONobj"], 
                               template=promptTemplate)
@@ -58,11 +59,11 @@ for promptTemplateFile in glob(os.path.join('receipt_parse', 'prompt_templates',
   chain = prompt | model # how to pass the prompt to the model (pipe prompt to model)
 
   #### Run inference on reciepts ####
-  prompt = os.path.basename(promptTemplateFile).split('.txt')[0].replace('_', '')#.split('_')[-1] e.g. prompt_template_1
+  promptName = os.path.basename(promptTemplateFile).split('.txt')[0].replace('_', '')#.split('_')[-1] e.g. prompt_template_1
   recieptFiles = glob(os.path.join('data', 'receipts', 'text', '*.txt'))
   for recieptFn in recieptFiles:
     print(recieptFn)
-    saveJson = os.path.join('data', 'receipts', 'json', f'{os.path.basename(recieptFn).split(".tx")[0]}_{prompt}.json')
+    saveJson = os.path.join('data', 'receipts', 'json', f'{os.path.basename(recieptFn).split(".tx")[0]}_{promptName}.json')
     if os.path.exists(saveJson):continue
     with open(recieptFn, 'r') as f: recieptTxt = f.read()
     response = chain.invoke({'input':recieptTxt})

@@ -1,7 +1,7 @@
 Generate the following json format with the appropriate fields from text data I will pass to you. Only generate the json object in json format. Do not, under any circumstances, print any other text in your response. The text data is from receipt information, some of which is unknown. Use context, knowledge about receipt formatting, and mathematical analysis to ensure the correct information is parsed. If there is a field with <UNKNOWN> in it, include it in the json. If there is no apparent matching information for a field, put "null". For merchantCategory, choose the best option based on the items: "Grocery and Supermarkets", "Restaurants and Food Services", "Clothing and Apparel", "Health and Beauty", "Electronics and Appliances", "Home and Garden", or "Entertainment and Leisure". Here is the json format to fill out: 
 
-{
-  "ReceiptInfo": {
+{{{{
+  "ReceiptInfo": {{{{
     "merchant": "(string value)",
     "merchantCategory": "(string value)",
     "address": "(string value)",
@@ -12,30 +12,23 @@ Generate the following json format with the appropriate fields from text data I 
     "total": "(float value)",
     "receiptDate": "(string value)",
     "receiptTime": "(string value)",
+
+
     "ITEMS": [
-      {
+      {{{{
         "description": "(string value)",
         "quantity": "(integer value)",
         "unitPrice": "(float value)",
         "totalPrice": "(float value)",
         "discountAmount": "(float value)"
-      },
-      {
-        "description": "(string value)",
-        "quantity": "(integer value)",
-        "unitPrice": "(float value)",
-        "totalPrice": "(float value)",
-        "discountAmount": "(float value)"
-      },
-      ...
+      }}}}, ...
     ]
-  }
-}
+  }}}}
+}}}}
 
-Here is an example receipt text data:
+Below is an example of first reciept text:
 
-{rawReceiptText}
+{rawRecieptText}
 
-and this is an example JSON object for that text:
-
+The JSON object for this example:
 {JSONobj}
