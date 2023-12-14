@@ -1,9 +1,6 @@
 import json
 import os
 from nervaluate import Evaluator
-expected_json_directory = "data/receipts/json/expected"
-actual_json_directory = "data/receipts/json/actual"
-receipt_txt_directory = "data/receipts/text"
 
 def find_span(input, label, receipt_text):
     start = receipt_text.find(input)
@@ -62,15 +59,17 @@ def sort_entities(input_list):
             output[element["label"]] = [element]
     return list(output.values())
 
-receipts = make_txt_dict(receipt_txt_directory)
-expected = make_json_file_dict(expected_json_directory)
-actual = make_json_file_dict(actual_json_directory)
-evaluations = {}
-tag_list = ['MERCHANT']
-for element in expected:
-    if(element in actual and element in receipts):
-        actual_parsed = sort_entities(recursive_entity_parse(actual[element], '', receipts[element]))
-        expected_parsed = sort_entities(recursive_entity_parse(expected[element], '', receipts[element]))
-        evaluator = Evaluator(expected_parsed, actual_parsed, tags=tag_list)
-        results, results_by_tag = evaluator.evaluate()
-        print(results)
+def do_nervaluation_from_dir(receipt_txt_directory, expected_json_directory, actual_json_directory, tags):
+    receipts = make_txt_dict(receipt_txt_directory)
+    expected = make_json_file_dict(expected_json_directory)
+    actual = make_json_file_dict(actual_json_directory)
+    evaluations = {}
+    tag_list = ['MERCHANT']
+    for element in expected:
+        if(element in actual and element in receipts):
+            actual_parsed = sort_entities(recursive_entity_parse(actual[element], '', receipts[element]))
+            expected_parsed = sort_entities(recursive_entity_parse(expected[element], '', receipts[element]))
+            evaluator = Evaluator(expected_parsed, actual_parsed, tags=tag_list)
+            results, results_by_tag = evaluator.evaluate()
+            evaluations[element] = results
+    return evaluations 
