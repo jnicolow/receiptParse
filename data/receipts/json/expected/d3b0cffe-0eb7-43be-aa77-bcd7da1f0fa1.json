@@ -1,0 +1,36 @@
+{
+    "ReceiptInfo": {
+      "merchant": "Longs Drugs",
+      "address": "91-919 FORT WEAVER RD",
+      "city": "EWA BEACH",
+      "state": "HI",
+      "phoneNumber": "808.689.5860",
+      "tax": 0.36,
+      "total": 7.99,
+      "receiptDate": "05/13/23",
+      "receiptTime":"19:17",
+      "ITEMS": [
+        {
+            "description": "OREO ORIG DBL STFF 14.0",
+            "quantity": 1,
+            "unitPrice": 2.93,
+            "totalPrice": 2.93,
+            "discountAmount":1.57 
+        },
+        {
+            "description": "BAUD WAFER CHOCLT",
+            "quantity": null,
+            "unitPrice": null,
+            "totalPrice": null,
+            "discountAmount":0.57 
+        },
+        {
+            "description": "HWNISL TEABG GVGNS",
+            "quantity": 1,
+            "unitPrice": 3.60,
+            "totalPrice": 3.60,
+            "discountAmount":null 
+        }
+      ]
+    }
+  }

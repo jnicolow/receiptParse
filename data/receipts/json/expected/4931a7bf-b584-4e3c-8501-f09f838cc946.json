@@ -1,0 +1,29 @@
+{
+    "ReceiptInfo": {
+      "merchant": "LEAHI HEALTH MANOA",
+      "address": "2752 WOODLAWN DRIVE",
+      "city": "HONOLULU",
+      "state": "HI",
+      "phoneNumber": "8082242607",
+      "tax": 0.38,
+      "total": 9.64,
+      "receiptDate": "30-Jul-2023",
+      "receiptTime":"1:02:48P",
+      "ITEMS": [
+        {
+            "description": "Deep Green",
+            "quantity": 1,
+            "unitPrice": 8.00,
+            "totalPrice": 8.00,
+            "discountAmount":null 
+        },
+        {
+            "description": "Tip",
+            "quantity": 1,
+            "unitPrice": 1.26,
+            "totalPrice": 1.26,
+            "discountAmount":null
+        }
+      ]
+    }
+  }

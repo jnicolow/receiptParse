@@ -1,0 +1,29 @@
+{
+    "ReceiptInfo": {
+      "merchant": "Panda Express",
+      "address": "Honclulu, HI",
+      "city": "Honclulu",
+      "state": "HI",
+      "phoneNumber": "(808)956-7229",
+      "tax": 0.57,
+      "total": 12.67,
+      "receiptDate": "6/9/2023",
+      "receiptTime":"11:02:50 AM",
+      "ITEMS": [
+        {
+          "description": "Plate",
+          "quantity": 1,
+          "unitPrice": 10.60,
+          "totalPrice": 10.60,
+          "ingredients": ["FRIED RICE-1/2","FRIED <UNKNOWN>","STR BN CKN BRST","ORANGE CKN"]
+        },
+        {
+          "description": "XTRA ENTREE",
+          "quantity": 1,
+          "unitPrice": 1.50,
+          "totalPrice": 1.50,
+          "ingredients":["VEG SPRING <UNKNOWN>", "<UNKNOWN>"]
+        }
+      ]
+    }
+  } 
