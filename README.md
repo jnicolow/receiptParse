@@ -1,21 +1,20 @@
 # receiptParse
+## Project description
 ICS 438 UHM
 https://docs.google.com/document/d/1LyJrn1z1Mgx_QmKfL_R1R5vSdxHW_-LWJS5iWwRf34k/edit?usp=sharing
-# components:
-1. Prompt convert tex to structured data
 
-	Tests:
-		Make sure it generates correct data
-		Make sure you handle edge cases
-			missing data
-			data not in the correct type (like phone number is (808).. instead of as a number)
-			LLM returning text or invalid JSON
-3. Identify category for vender
-   
-	Get embeddings for title and ingredients then do KNN or something
-	Tests:
-		Make sure it predicts 1 of the 7 categories and also that it gives the correct categories
+## Use the following file to run our project:
+convert_testset_to_json.ipynb
 
-5. Identify category of embeddings
-		
+## All parsed JSON receipts are located in
+data/receipts/json/prompt2
+
+## Steamlit dashboard for visualization:
+https://wgwqubodjvonwsp3mxfzvm.streamlit.app/https://wgwqubodjvonwsp3mxfzvm.streamlit.app/ 		
+
+## Run the streamlit app locally 
+1. start anaconda
+2. create a new environment
+3. pip install streamlit
+4. in this directory using anconda: streamlit run streamlit_app.py
 
