@@ -1,0 +1,129 @@
+{
+    "ReceiptInfo": {
+        "merchant": "Walmart",
+        "address": "1131 KUALA ST PEARL CITY HI 96782",
+        "city": "PEARL CITY",
+        "state": "HI",
+        "phoneNumber": "808-454-8785",
+        "tax": 4.78,
+        "total": 106.18,
+        "receiptDate": "10/04/23",
+        "receiptTime": "14:24:58",
+        "ITEMS": [
+            {
+                "description": "KETTLE",
+                "quantity": 1,
+                "unitPrice": 43.24,
+                "totalPrice": 43.24
+            },
+            {
+                "description": "POPCORN",
+                "quantity": 1,
+                "unitPrice": 7.88,
+                "totalPrice": 7.88
+            },
+            {
+                "description": "DOG SNACKS",
+                "quantity": 1,
+                "unitPrice": 4.54,
+                "totalPrice": 4.54
+            },
+            {
+                "description": "CHK NDL SOUP",
+                "quantity": 1,
+                "unitPrice": 2.26,
+                "totalPrice": 2.26
+            },
+            {
+                "description": "POT RST SOUP",
+                "quantity": 1,
+                "unitPrice": 2.26,
+                "totalPrice": 2.26
+            },
+            {
+                "description": "CHK NDL SOUP",
+                "quantity": 1,
+                "unitPrice": 2.26,
+                "totalPrice": 2.26
+            },
+            {
+                "description": "CHK NDL SOUP",
+                "quantity": 1,
+                "unitPrice": 2.26,
+                "totalPrice": 2.26
+            },
+            {
+                "description": "TUNA",
+                "quantity": 1,
+                "unitPrice": 1.32,
+                "totalPrice": 1.32
+            },
+            {
+                "description": "TUNA",
+                "quantity": 1,
+                "unitPrice": 1.32,
+                "totalPrice": 1.32
+            },
+            {
+                "description": "TUNA",
+                "quantity": 1,
+                "unitPrice": 1.32,
+                "totalPrice": 1.32
+            },
+            {
+                "description": "TUNA",
+                "quantity": 1,
+                "unitPrice": 1.32,
+                "totalPrice": 1.32
+            },
+            {
+                "description": "SPAM LNCH MT",
+                "quantity": 1,
+                "unitPrice": 2.98,
+                "totalPrice": 2.98
+            },
+            {
+                "description": "DL BAR 8CT",
+                "quantity": 1,
+                "unitPrice": 7.12,
+                "totalPrice": 7.12
+            },
+            {
+                "description": "BENADRYL 100",
+                "quantity": 1,
+                "unitPrice": 15.24,
+                "totalPrice": 15.24
+            },
+            {
+                "description": "GOLDBEARS",
+                "quantity": 1,
+                "unitPrice": 1.28,
+                "totalPrice": 1.28
+            },
+            {
+                "description": "GOLDBEARS",
+                "quantity": 1,
+                "unitPrice": 1.28,
+                "totalPrice": 1.28
+            },
+            {
+                "description": "SR GLDBRS",
+                "quantity": 1,
+                "unitPrice": 0.98,
+                "totalPrice": 0.98
+            },
+            {
+                "description": "NORI",
+                "quantity": 1,
+                "unitPrice": 1.27,
+                "totalPrice": 1.27
+            },
+            {
+                "description": "NORI",
+                "quantity": 1,
+                "unitPrice": 1.27,
+                "totalPrice": 1.27
+            }
+        ]
+    }
+}

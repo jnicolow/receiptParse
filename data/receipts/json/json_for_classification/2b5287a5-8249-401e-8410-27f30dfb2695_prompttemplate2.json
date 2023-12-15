@@ -1,0 +1,39 @@
+{
+    "ReceiptInfo": {
+        "merchant": "Taco Bell 002491",
+        "address": "376 Kamehameha Hwy Pearl City, HI 96782",
+        "city": "Pearl City",
+        "state": "HI",
+        "phoneNumber": "(808)486-9697",
+        "tax": 0.39,
+        "total": 8.65,
+        "receiptDate": "10/13/2023",
+        "receiptTime": "1:12:30 PM",
+        "ITEMS": [
+            {
+                "description": "1 Beef Crunchy Taco",
+                "quantity": 1,
+                "unitPrice": 1.79,
+                "totalPrice": 1.79
+            },
+            {
+                "description": "1 Beef Soft Taco",
+                "quantity": 1,
+                "unitPrice": 1.79,
+                "totalPrice": 1.79
+            },
+            {
+                "description": "1 Chzy Bean Rice Bur",
+                "quantity": 1,
+                "unitPrice": 1.89,
+                "totalPrice": 1.89
+            },
+            {
+                "description": "1 Chips N Cheese",
+                "quantity": 1,
+                "unitPrice": 2.79,
+                "totalPrice": 2.79
+            }
+        ]
+    }
+}

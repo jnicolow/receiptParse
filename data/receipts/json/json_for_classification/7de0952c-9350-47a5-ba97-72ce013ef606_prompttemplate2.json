@@ -1,0 +1,87 @@
+{
+    "ReceiptInfo": {
+        "merchant": "KAHEKA STORE",
+        "address": "<UNKNOWN>",
+        "city": "<UNKNOWN>",
+        "state": "<UNKNOWN>",
+        "phoneNumber": "973-4800",
+        "tax": 4.7,
+        "total": 103.73,
+        "receiptDate": "09/23/2023",
+        "receiptTime": "18:31:17",
+        "ITEMS": [
+            {
+                "description": "NISHIKI RICE VINEGAR",
+                "quantity": 1,
+                "unitPrice": 3.99,
+                "totalPrice": 3.99
+            },
+            {
+                "description": "AJI GYOZA PORK & CHK",
+                "quantity": 1,
+                "unitPrice": 15.49,
+                "totalPrice": 15.49
+            },
+            {
+                "description": "SK AMAZU SHOGA",
+                "quantity": 1,
+                "unitPrice": 7.99,
+                "totalPrice": 7.99
+            },
+            {
+                "description": "OSTS GLZ OF DONUT HS",
+                "quantity": 1,
+                "unitPrice": 4.49,
+                "totalPrice": 4.49
+            },
+            {
+                "description": "OM HARD SALAMI",
+                "quantity": 1,
+                "unitPrice": 6.39,
+                "totalPrice": 6.39
+            },
+            {
+                "description": "HEARTH N HARVEST WH*",
+                "quantity": 1,
+                "unitPrice": 3.99,
+                "totalPrice": 3.99
+            },
+            {
+                "description": "CROWN ROYAL PEACH",
+                "quantity": 1,
+                "unitPrice": 24.99,
+                "totalPrice": 24.99
+            },
+            {
+                "description": "SAPPORO 12PK BEER*",
+                "quantity": 1,
+                "unitPrice": 10.99,
+                "totalPrice": 10.99
+            },
+            {
+                "description": "HF LTL SMOKIES*",
+                "quantity": 1,
+                "unitPrice": 5.99,
+                "totalPrice": 5.99
+            },
+            {
+                "description": "GRND BF 75% LEAN",
+                "quantity": 1,
+                "unitPrice": 4.82,
+                "totalPrice": 4.82
+            },
+            {
+                "description": "GRND BF 75% LEAN",
+                "quantity": 1,
+                "unitPrice": 10.38,
+                "totalPrice": 10.38
+            },
+            {
+                "description": "PAPER BAG TIMES",
+                "quantity": 2,
+                "unitPrice": 0.15,
+                "totalPrice": 0.3
+            }
+        ]
+    }
+}

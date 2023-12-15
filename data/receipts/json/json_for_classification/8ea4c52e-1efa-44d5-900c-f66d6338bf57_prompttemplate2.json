@@ -1,0 +1,57 @@
+{
+    "ReceiptInfo": {
+        "merchant": "McDonald's Restaurant #2331",
+        "address": "2121 S KING STREET HONOLULU,HI 96826",
+        "city": "HONOLULU",
+        "state": "HI",
+        "phoneNumber": "808 973 2357",
+        "tax": 0.33,
+        "total": 7.31,
+        "receiptDate": "10/30/2022",
+        "receiptTime": "06:43 PM",
+        "ITEMS": [
+            {
+                "description": "Happy Meal Ch Burger",
+                "quantity": 1,
+                "unitPrice": 4.69,
+                "totalPrice": 4.69
+            },
+            {
+                "description": "Cheeseburger",
+                "quantity": 1,
+                "unitPrice": 0.8,
+                "totalPrice": 0.8
+            },
+            {
+                "description": "Extra Kids Fry",
+                "quantity": 1,
+                "unitPrice": 1.49,
+                "totalPrice": 1.49
+            },
+            {
+                "description": "Surprise Toy",
+                "quantity": 1,
+                "unitPrice": 0.0,
+                "totalPrice": 0.0
+            },
+            {
+                "description": "Apple Juice",
+                "quantity": 1,
+                "unitPrice": 1.49,
+                "totalPrice": 1.49
+            },
+            {
+                "description": "Regular Meat",
+                "quantity": 1,
+                "unitPrice": 0.8,
+                "totalPrice": 0.8
+            },
+            {
+                "description": "M Diet Coke",
+                "quantity": 1,
+                "unitPrice": 1.49,
+                "totalPrice": 1.49
+            }
+        ]
+    }
+}

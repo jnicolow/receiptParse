@@ -1,0 +1,71 @@
+{
+    "ReceiptInfo": {
+        "merchant": "sam's club",
+        "address": "Self Checkout",
+        "city": "<UNKNOWN>",
+        "state": "<UNKNOWN>",
+        "phoneNumber": "(808) 945-9841",
+        "tax": 3.32,
+        "total": 74.2,
+        "receiptDate": "05/13/23",
+        "receiptTime": "19:17",
+        "ITEMS": [
+            {
+                "description": "423450 EZPEELSHRINF",
+                "quantity": 1,
+                "unitPrice": 16.98,
+                "totalPrice": 16.98,
+                "discountAmount": null
+            },
+            {
+                "description": "E 980048788 DC 24PK CANF",
+                "quantity": 1,
+                "unitPrice": 11.58,
+                "totalPrice": 11.58,
+                "discountAmount": null
+            },
+            {
+                "description": "E 980049707 HI DEPOSIT F",
+                "quantity": 1,
+                "unitPrice": 1.2,
+                "totalPrice": 1.2,
+                "discountAmount": null
+            },
+            {
+                "description": "E 980049708 HI HANDLINGF",
+                "quantity": 1,
+                "unitPrice": 0.24,
+                "totalPrice": 0.24,
+                "discountAmount": null
+            },
+            {
+                "description": "E 980109376 MIXED NUTS F",
+                "quantity": 1,
+                "unitPrice": 9.98,
+                "totalPrice": 9.98,
+                "discountAmount": null
+            },
+            {
+                "description": "E 1980332988 DORITOS COOF",
+                "quantity": 1,
+                "unitPrice": 5.96,
+                "totalPrice": 5.96,
+                "discountAmount": null
+            },
+            {
+                "description": "<UNKNOWN> 150F",
+                "quantity": 1,
+                "unitPrice": 5.96,
+                "totalPrice": 5.96,
+                "discountAmount": null
+            },
+            {
+                "description": "369320 BASHATI <UNKNOWN>",
+                "quantity": 1,
+                "unitPrice": 19.98,
+                "totalPrice": 19.98,
+                "discountAmount": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "ReceiptInfo": {
+        "merchant": "KOZO SUSHI MOILIILI",
+        "address": "2334 S KING ST HONOLULU, HI 96826",
+        "city": "HONOLULU",
+        "state": "HI",
+        "phoneNumber": "(808) 951-5698",
+        "tax": null,
+        "total": 14.55,
+        "receiptDate": "05/14/22",
+        "receiptTime": "11:50:15",
+        "ITEMS": []
+    }
+}

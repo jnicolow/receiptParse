@@ -1,0 +1,81 @@
+{
+    "ReceiptInfo": {
+        "merchant": "Olive",
+        "address": "1279 New Churchman's Rd Christiana, DE 19702",
+        "city": "Christiana",
+        "state": "DE",
+        "phoneNumber": "302-731-5430",
+        "tax": null,
+        "total": 44.61,
+        "receiptDate": "5:34:20PM 07/13/2023",
+        "receiptTime": "5:34:20PM",
+        "ITEMS": [
+            {
+                "description": "Table Games",
+                "quantity": 1,
+                "unitPrice": 2.99,
+                "totalPrice": 2.99
+            },
+            {
+                "description": "Soft Drink",
+                "quantity": 1,
+                "unitPrice": 3.49,
+                "totalPrice": 3.49
+            },
+            {
+                "description": "Calamari",
+                "quantity": 1,
+                "unitPrice": 11.79,
+                "totalPrice": 11.79
+            },
+            {
+                "description": "Soup & Salad",
+                "quantity": 1,
+                "unitPrice": 10.99,
+                "totalPrice": 10.99
+            },
+            {
+                "description": "Gnocchi",
+                "quantity": 1,
+                "unitPrice": null,
+                "totalPrice": null
+            },
+            {
+                "description": "Kids Strawberry",
+                "quantity": 1,
+                "unitPrice": 2.99,
+                "totalPrice": 2.99
+            },
+            {
+                "description": "Kid CYO Meat Sauce",
+                "quantity": 1,
+                "unitPrice": 6.99,
+                "totalPrice": 6.99
+            },
+            {
+                "description": "Spaghetti",
+                "quantity": 1,
+                "unitPrice": null,
+                "totalPrice": null
+            },
+            {
+                "description": "Add Meatball",
+                "quantity": 1,
+                "unitPrice": 1.79,
+                "totalPrice": 1.79
+            },
+            {
+                "description": "w/1 MB",
+                "quantity": 2,
+                "unitPrice": 3.58,
+                "totalPrice": 7.16
+            },
+            {
+                "description": "Fries",
+                "quantity": null,
+                "unitPrice": null,
+                "totalPrice": null
+            }
+        ]
+    }
+}

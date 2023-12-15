@@ -1,0 +1,21 @@
+{
+    "ReceiptInfo": {
+        "merchant": "Store",
+        "address": "2754 Drive, 7-106, HI",
+        "city": "null",
+        "state": "null",
+        "phoneNumber": "null",
+        "tax": 0.15,
+        "total": 3.24,
+        "receiptDate": "05/04/22",
+        "receiptTime": "null",
+        "ITEMS": [
+            {
+                "description": "L LIGHT",
+                "quantity": 1,
+                "unitPrice": 3.09,
+                "totalPrice": 3.09
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "ReceiptInfo": {
+        "merchant": "<UNKNOWN>",
+        "address": "KAHEKA STORE",
+        "city": "<UNKNOWN>",
+        "state": "<UNKNOWN>",
+        "phoneNumber": "Ph - # 973-4800",
+        "tax": 0.21,
+        "total": 4.7,
+        "receiptDate": "09/27/2023",
+        "receiptTime": "00:11:44",
+        "ITEMS": [
+            {
+                "description": "JK ALKALINE BATTERY",
+                "quantity": 1,
+                "unitPrice": 2.99,
+                "totalPrice": 2.99
+            },
+            {
+                "description": "ORANGE NAVEL <UNKNOWN>",
+                "quantity": 1,
+                "unitPrice": 2.49,
+                "totalPrice": 2.49
+            }
+        ]
+    }
+}

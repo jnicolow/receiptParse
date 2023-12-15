@@ -1,0 +1,21 @@
+{
+    "ReceiptInfo": {
+        "merchant": "Krispy Kreme",
+        "address": "330 City Drive South Orange, CA 92868",
+        "city": "Orange",
+        "state": "CA",
+        "phoneNumber": "714.769.4330",
+        "tax": 0.0,
+        "total": 3.99,
+        "receiptDate": "03/15/2023",
+        "receiptTime": "1:23 PM",
+        "ITEMS": [
+            {
+                "description": "Latte Iced Medium",
+                "quantity": 1,
+                "unitPrice": 3.99,
+                "totalPrice": 3.99
+            }
+        ]
+    }
+}

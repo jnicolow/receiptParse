@@ -1,0 +1,33 @@
+{
+    "ReceiptInfo": {
+        "merchant": "Honolulu Store",
+        "address": "2525 South King Street Honolulu,HI,96826",
+        "city": "Honolulu",
+        "state": "HI",
+        "phoneNumber": "808 947 7678",
+        "tax": 0.55,
+        "total": 12.23,
+        "receiptDate": "JUN 17 2023",
+        "receiptTime": "12:39",
+        "ITEMS": [
+            {
+                "description": "CARDAMOM POWDER",
+                "quantity": 0,
+                "unitPrice": 5.96,
+                "totalPrice": 0
+            },
+            {
+                "description": "CINN VIETNAMESE",
+                "quantity": 0,
+                "unitPrice": 3.54,
+                "totalPrice": 0
+            },
+            {
+                "description": "CUMIN SEED GROUND",
+                "quantity": 0,
+                "unitPrice": 2.18,
+                "totalPrice": 0
+            }
+        ]
+    }
+}

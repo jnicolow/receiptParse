@@ -1,0 +1,22 @@
+{
+    "ReceiptInfo": {
+        "merchant": "Wal-Mart",
+        "address": "700 KEEAUMOKU ST HONOLULU HI 96814",
+        "city": "HONOLULU",
+        "state": "HI",
+        "phoneNumber": "808-955-8441",
+        "tax": 0.45,
+        "total": 10.03,
+        "receiptDate": "10/31/23",
+        "receiptTime": "12:23:56",
+        "ITEMS": [
+            {
+                "description": "OV UH RF JUG 093966009580 F",
+                "quantity": 1,
+                "unitPrice": 9.58,
+                "totalPrice": 9.58,
+                "discountAmount": null
+            }
+        ]
+    }
+}

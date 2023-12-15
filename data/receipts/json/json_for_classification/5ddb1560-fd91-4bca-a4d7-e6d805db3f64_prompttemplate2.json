@@ -1,0 +1,71 @@
+{
+    "ReceiptInfo": {
+        "merchant": "KAHEKA STORE",
+        "address": "Ph.# 973-4800",
+        "city": "City Unknown",
+        "state": "State Unknown",
+        "phoneNumber": "973-4800",
+        "tax": 0.91,
+        "total": 20.39,
+        "receiptDate": "10/08/2023",
+        "receiptTime": "16:57:40",
+        "ITEMS": [
+            {
+                "description": "HERSHEYS PUDDING SMO",
+                "quantity": 1,
+                "unitPrice": 3.99,
+                "totalPrice": 3.99,
+                "discountAmount": null
+            },
+            {
+                "description": "NESTLE DRUMSTK-S/DI*",
+                "quantity": 1,
+                "unitPrice": 7.99,
+                "totalPrice": 7.99,
+                "discountAmount": null
+            },
+            {
+                "description": "TERRA BEER BOTTLE 16",
+                "quantity": 1,
+                "unitPrice": 3.69,
+                "totalPrice": 3.69,
+                "discountAmount": null
+            },
+            {
+                "description": "TERRA BEER BOTTLE 16",
+                "quantity": 1,
+                "unitPrice": 3.69,
+                "totalPrice": 3.69,
+                "discountAmount": null
+            },
+            {
+                "description": "HI DEP**",
+                "quantity": 1,
+                "unitPrice": 0.05,
+                "totalPrice": 0.05,
+                "discountAmount": null
+            },
+            {
+                "description": "HI TAX** 1PK",
+                "quantity": 1,
+                "unitPrice": 0.01,
+                "totalPrice": 0.01,
+                "discountAmount": null
+            },
+            {
+                "description": "HI DEP** 1PK",
+                "quantity": 1,
+                "unitPrice": 0.05,
+                "totalPrice": 0.05,
+                "discountAmount": null
+            },
+            {
+                "description": "HI TAX** 1PK",
+                "quantity": 1,
+                "unitPrice": 0.01,
+                "totalPrice": 0.01,
+                "discountAmount": null
+            }
+        ]
+    }
+}

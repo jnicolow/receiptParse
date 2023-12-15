@@ -1,0 +1,21 @@
+{
+    "ReceiptInfo": {
+        "merchant": "Dunkin",
+        "address": "2560 McCarthy Mall Honolulu, HI 96822",
+        "city": "Honolulu",
+        "state": "HI",
+        "phoneNumber": "(808) 956-6728",
+        "tax": 0.24,
+        "total": 5.23,
+        "receiptDate": "5/5/2022",
+        "receiptTime": "11:06 AM",
+        "ITEMS": [
+            {
+                "description": "Md Ice Orig Latte",
+                "quantity": 1,
+                "unitPrice": 4.99,
+                "totalPrice": 4.99
+            }
+        ]
+    }
+}

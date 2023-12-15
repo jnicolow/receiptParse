@@ -1,0 +1,36 @@
+{
+    "ReceiptInfo": {
+        "merchant": "<UNKNOWN>",
+        "address": "808 <UNKNOWN> WALTER 700 <UNKNOWN> ST <UNKNOWN> <UNKNOWN> 96814",
+        "city": "<UNKNOWN>",
+        "state": "<UNKNOWN>",
+        "phoneNumber": "null",
+        "tax": 0.36,
+        "total": 7.98,
+        "receiptDate": "09/27/23",
+        "receiptTime": "15:53:09",
+        "ITEMS": [
+            {
+                "description": "CORKSCREW",
+                "quantity": 1,
+                "unitPrice": 0.97,
+                "totalPrice": 0.97,
+                "discountAmount": "null"
+            },
+            {
+                "description": "LG <UNKNOWN> PAN",
+                "quantity": 1,
+                "unitPrice": 5.68,
+                "totalPrice": 5.68,
+                "discountAmount": "null"
+            },
+            {
+                "description": "12 TONGS",
+                "quantity": 1,
+                "unitPrice": 0.97,
+                "totalPrice": 0.97,
+                "discountAmount": "null"
+            }
+        ]
+    }
+}

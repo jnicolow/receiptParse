@@ -1,0 +1,27 @@
+{
+    "ReceiptInfo": {
+        "merchant": "Oahu",
+        "address": "1450 Ala Moana Blvd, Ste 2401 <UNKNOWN> Hawaii 96814-4604",
+        "city": "<UNKNOWN>",
+        "state": "Hawaii",
+        "phoneNumber": "808-206-7162",
+        "tax": 2.59,
+        "total": 57.59,
+        "receiptDate": "10/21/2023",
+        "receiptTime": "08:36 PM",
+        "ITEMS": [
+            {
+                "description": "060160772 TH P llow",
+                "quantity": 1,
+                "unitPrice": 35.0,
+                "totalPrice": 35.0
+            },
+            {
+                "description": "060160099 RE Pillow",
+                "quantity": 1,
+                "unitPrice": 20.0,
+                "totalPrice": 20.0
+            }
+        ]
+    }
+}

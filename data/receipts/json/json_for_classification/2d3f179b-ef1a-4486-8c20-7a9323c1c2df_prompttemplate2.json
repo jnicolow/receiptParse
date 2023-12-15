@@ -1,0 +1,106 @@
+{
+    "ReceiptInfo": {
+        "merchant": "COSTCO",
+        "address": "333A Keahole Street Honolulu, HI 96825",
+        "city": "Honolulu",
+        "state": "HI",
+        "phoneNumber": "null",
+        "tax": 5.24,
+        "total": 119.54,
+        "receiptDate": "09/17/2023",
+        "receiptTime": "14:56",
+        "ITEMS": [
+            {
+                "description": "956752 HI WATER 12P",
+                "quantity": 1,
+                "unitPrice": 6.65,
+                "totalPrice": 6.65,
+                "discountAmount": null
+            },
+            {
+                "description": "2700000000 HI BEVERAGE",
+                "quantity": 1,
+                "unitPrice": 0.72,
+                "totalPrice": 0.72,
+                "discountAmount": null
+            },
+            {
+                "description": "782796 null",
+                "quantity": 1,
+                "unitPrice": 6.39,
+                "totalPrice": 6.39,
+                "discountAmount": null
+            },
+            {
+                "description": "9600000000 HI BEVERAGE",
+                "quantity": 1,
+                "unitPrice": 2.4,
+                "totalPrice": 2.4,
+                "discountAmount": null
+            },
+            {
+                "description": "5092 WATERMELON",
+                "quantity": 1,
+                "unitPrice": 12.99,
+                "totalPrice": 12.99,
+                "discountAmount": null
+            },
+            {
+                "description": "1083849 BLACK GRAPE",
+                "quantity": 1,
+                "unitPrice": 7.99,
+                "totalPrice": 7.99,
+                "discountAmount": null
+            },
+            {
+                "description": "1489206 PRINGLES VTY",
+                "quantity": 1,
+                "unitPrice": 24.89,
+                "totalPrice": 24.89,
+                "discountAmount": null
+            },
+            {
+                "description": "969786 PANDA COOKIE",
+                "quantity": 1,
+                "unitPrice": 9.99,
+                "totalPrice": 9.99,
+                "discountAmount": null
+            },
+            {
+                "description": "107699 DUMPLINGS",
+                "quantity": 1,
+                "unitPrice": 13.59,
+                "totalPrice": 13.59,
+                "discountAmount": null
+            },
+            {
+                "description": "30669 null",
+                "quantity": 1,
+                "unitPrice": 2.39,
+                "totalPrice": 2.39,
+                "discountAmount": null
+            },
+            {
+                "description": "18600 MANDARINS",
+                "quantity": 1,
+                "unitPrice": 8.79,
+                "totalPrice": 8.79,
+                "discountAmount": null
+            },
+            {
+                "description": "24311 VAR. MUFFIN",
+                "quantity": 1,
+                "unitPrice": 9.99,
+                "totalPrice": 9.99,
+                "discountAmount": null
+            },
+            {
+                "description": "38578 SPINSALAD",
+                "quantity": 1,
+                "unitPrice": 12.52,
+                "totalPrice": 12.52,
+                "discountAmount": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "ReceiptInfo": {
+        "merchant": "UNITED STATES POSTAL SERVICE",
+        "address": "335 MERCHANT ST FL GROUND HONOLULU, HI 96813-9998",
+        "city": "HONOLULU",
+        "state": "HI",
+        "phoneNumber": "(800)275-8777",
+        "tax": null,
+        "total": 8.5,
+        "receiptDate": "11/03/2023",
+        "receiptTime": "02:37 PM",
+        "ITEMS": [
+            {
+                "description": "USPS Grnd Advtg",
+                "quantity": 1,
+                "unitPrice": 8.5,
+                "totalPrice": 8.5
+            }
+        ]
+    }
+}

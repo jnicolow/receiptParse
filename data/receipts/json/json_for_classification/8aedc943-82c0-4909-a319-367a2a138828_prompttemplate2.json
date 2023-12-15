@@ -1,0 +1,45 @@
+{
+    "ReceiptInfo": {
+        "merchant": "Walmart",
+        "address": "700 KEEAUMOKU ST HONOLULU HI 96814",
+        "city": "HONOLULU",
+        "state": "HI",
+        "phoneNumber": "808-955-8441",
+        "tax": 0.82,
+        "total": 10.22,
+        "receiptDate": "09/23/23",
+        "receiptTime": "14:13:39",
+        "ITEMS": [
+            {
+                "description": "SF CANDY",
+                "quantity": 1,
+                "unitPrice": 3.48,
+                "totalPrice": 3.48
+            },
+            {
+                "description": "SF CANDY",
+                "quantity": 1,
+                "unitPrice": 3.48,
+                "totalPrice": 3.48
+            },
+            {
+                "description": "SF CANDY",
+                "quantity": 1,
+                "unitPrice": 3.48,
+                "totalPrice": 3.48
+            },
+            {
+                "description": "SF CANDY",
+                "quantity": 1,
+                "unitPrice": 3.48,
+                "totalPrice": 3.48
+            },
+            {
+                "description": "SF CANDY",
+                "quantity": 1,
+                "unitPrice": 3.48,
+                "totalPrice": 3.48
+            }
+        ]
+    }
+}

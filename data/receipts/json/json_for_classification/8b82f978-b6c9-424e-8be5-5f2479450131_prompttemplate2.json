@@ -1,0 +1,39 @@
+{
+    "ReceiptInfo": {
+        "merchant": "SAFEWAY",
+        "address": "2855 East Manoa Road HONOLULU HI 96822",
+        "city": "HONOLULU",
+        "state": "HI",
+        "phoneNumber": "(808) 988-2058",
+        "tax": 1.04,
+        "total": 23.16,
+        "receiptDate": "08/20/23",
+        "receiptTime": "20:04",
+        "ITEMS": [
+            {
+                "description": "SIG MINI PRETZELS",
+                "quantity": 1,
+                "unitPrice": 2.5,
+                "totalPrice": 2.5
+            },
+            {
+                "description": "VELVETTA",
+                "quantity": 1,
+                "unitPrice": 5.49,
+                "totalPrice": 5.49
+            },
+            {
+                "description": "BROWN COW CRM TOP",
+                "quantity": 1,
+                "unitPrice": 6.99,
+                "totalPrice": 6.99
+            },
+            {
+                "description": "SIG TURKEY BREAST",
+                "quantity": 1,
+                "unitPrice": "<UNKNOWN>",
+                "totalPrice": "<UNKNOWN>"
+            }
+        ]
+    }
+}

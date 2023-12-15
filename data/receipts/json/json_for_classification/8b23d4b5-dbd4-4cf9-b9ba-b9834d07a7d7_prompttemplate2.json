@@ -1,0 +1,27 @@
+{
+    "ReceiptInfo": {
+        "merchant": "BEN FRANKLIN CRAFTS #05614 (3)",
+        "address": "(unknown)",
+        "city": "(unknown)",
+        "state": "(unknown)",
+        "phoneNumber": "(808) 735-4211",
+        "tax": 0.45,
+        "total": 9.93,
+        "receiptDate": "06/21/23",
+        "receiptTime": "7:29PM",
+        "ITEMS": [
+            {
+                "description": "TRAVEL SEWING KIT",
+                "quantity": 1,
+                "unitPrice": 4.99,
+                "totalPrice": 4.99
+            },
+            {
+                "description": "SLAM DUNK BUBBLE GUM",
+                "quantity": 1,
+                "unitPrice": 4.49,
+                "totalPrice": 4.49
+            }
+        ]
+    }
+}

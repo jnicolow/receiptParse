@@ -1,0 +1,45 @@
+{
+    "ReceiptInfo": {
+        "merchant": "WHOLE FOODS MARKET",
+        "address": "388 Kamakee St Ste 100 Honolulu, HI 96814 5200",
+        "city": "Honolulu",
+        "state": "HI",
+        "phoneNumber": "808-379-1800",
+        "tax": 1.32,
+        "total": 29.43,
+        "receiptDate": "05/01/2022",
+        "receiptTime": "06:15 PM",
+        "ITEMS": [
+            {
+                "description": "BC PLAIN CRM TOP YGRT",
+                "quantity": 1,
+                "unitPrice": 5.99,
+                "totalPrice": 5.99
+            },
+            {
+                "description": "365WFM RBST FREE CRM CHS",
+                "quantity": 2,
+                "unitPrice": 2.69,
+                "totalPrice": 5.38
+            },
+            {
+                "description": "365WFM BREADED CALAMARI",
+                "quantity": 2,
+                "unitPrice": 6.79,
+                "totalPrice": 13.58
+            },
+            {
+                "description": "PINEAPPLE SMALL",
+                "quantity": 0.52,
+                "unitPrice": 5.79,
+                "totalPrice": 3.01
+            },
+            {
+                "description": "BAG FEE",
+                "quantity": 1,
+                "unitPrice": null,
+                "totalPrice": null
+            }
+        ]
+    }
+}

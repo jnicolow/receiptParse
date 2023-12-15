@@ -1,0 +1,45 @@
+{
+    "ReceiptInfo": {
+        "merchant": "Panda Express #1866",
+        "address": "Aiea, HI",
+        "city": "Aiea",
+        "state": "HI",
+        "phoneNumber": "(808)486-8696",
+        "tax": 0.66,
+        "total": 15.0,
+        "receiptDate": "10/18/2023",
+        "receiptTime": "3:49:49 PM",
+        "ITEMS": [
+            {
+                "description": "Plate",
+                "quantity": 1,
+                "unitPrice": 11.0,
+                "totalPrice": 11.0
+            },
+            {
+                "description": "FRIED RICE-1/2",
+                "quantity": 2,
+                "unitPrice": 1.5,
+                "totalPrice": 3.0
+            },
+            {
+                "description": "HNY WLT SHRIMP",
+                "quantity": 1,
+                "unitPrice": 1.5,
+                "totalPrice": 1.5
+            },
+            {
+                "description": "BLK PEPPER STEAK",
+                "quantity": 1,
+                "unitPrice": 1.5,
+                "totalPrice": 1.5
+            },
+            {
+                "description": "Panda Cares Donation",
+                "quantity": 1,
+                "unitPrice": 0.34,
+                "totalPrice": 0.34
+            }
+        ]
+    }
+}

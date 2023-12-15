@@ -1,0 +1,57 @@
+{
+    "ReceiptInfo": {
+        "merchant": "WHOLE FOODS MARKET",
+        "address": "388 Kamakee St Ste 100 Honolulu, HI 96814 5200",
+        "city": "Honolulu",
+        "state": "HI",
+        "phoneNumber": "808-379-1800",
+        "tax": 2.61,
+        "total": 58.22,
+        "receiptDate": "05/04/2022",
+        "receiptTime": "04:24 PM",
+        "ITEMS": [
+            {
+                "description": "PFD BTRNUT SOUP OG",
+                "quantity": 2,
+                "unitPrice": 5.39,
+                "totalPrice": 10.78
+            },
+            {
+                "description": "PFD OG CRMY CARROT SOUP",
+                "quantity": 1,
+                "unitPrice": 5.29,
+                "totalPrice": 5.29
+            },
+            {
+                "description": "365WFM BREADED CALAMARI",
+                "quantity": 2,
+                "unitPrice": 6.79,
+                "totalPrice": 13.58
+            },
+            {
+                "description": "VTACO CCNUT WT",
+                "quantity": 1,
+                "unitPrice": 6.29,
+                "totalPrice": 6.29
+            },
+            {
+                "description": "CARROT GINGER SOUP",
+                "quantity": 1,
+                "unitPrice": 8.49,
+                "totalPrice": 8.49
+            },
+            {
+                "description": "OG CAULIFLOWER",
+                "quantity": 2,
+                "unitPrice": 5.99,
+                "totalPrice": 11.98
+            },
+            {
+                "description": "CIABATTA BREAD",
+                "quantity": 1,
+                "unitPrice": 3.99,
+                "totalPrice": 3.99
+            }
+        ]
+    }
+}

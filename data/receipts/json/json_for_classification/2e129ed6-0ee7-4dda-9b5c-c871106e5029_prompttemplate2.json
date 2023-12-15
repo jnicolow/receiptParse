@@ -1,0 +1,35 @@
+{
+    "ReceiptInfo": {
+        "merchant": "LILIHA BAKERY",
+        "address": "Pearl Highlands Center Pearl City, HI 96782",
+        "city": "Pearl City",
+        "state": "HI",
+        "phoneNumber": "808,455-1188",
+        "tax": 2.22,
+        "total": 49.36,
+        "receiptDate": "10/21/2023",
+        "receiptTime": "5:46:41 PM",
+        "ITEMS": [
+            {
+                "description": "Poi Donut",
+                "quantity": 1,
+                "unitPrice": 20.9,
+                "totalPrice": 20.9
+            },
+            {
+                "description": "Coco Puff",
+                "quantity": 6,
+                "unitPrice": 2.08,
+                "totalPrice": 12.5,
+                "discountAmount": 0
+            },
+            {
+                "description": "Green Tea Puff",
+                "quantity": 1,
+                "unitPrice": 13.74,
+                "totalPrice": 13.74,
+                "discountAmount": 0
+            }
+        ]
+    }
+}

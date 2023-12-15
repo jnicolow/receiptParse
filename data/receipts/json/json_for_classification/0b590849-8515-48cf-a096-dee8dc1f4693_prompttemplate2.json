@@ -1,0 +1,21 @@
+{
+    "ReceiptInfo": {
+        "merchant": "Minit",
+        "address": "26 Kekela Street Hilo HI, 96720",
+        "city": "Hilo",
+        "state": "HI",
+        "phoneNumber": "<UNKNOWN>",
+        "tax": null,
+        "total": null,
+        "receiptDate": "7/8/2023",
+        "receiptTime": "12:12:18",
+        "ITEMS": [
+            {
+                "description": "Unleaded - R",
+                "quantity": 1,
+                "unitPrice": 4.559,
+                "totalPrice": 23.75
+            }
+        ]
+    }
+}

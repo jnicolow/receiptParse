@@ -1,0 +1,27 @@
+{
+    "ReceiptInfo": {
+        "merchant": "SAFEWAY",
+        "address": "2855 East Manoa Road HONOLULU HI 96822",
+        "city": "HONOLULU",
+        "state": "HI",
+        "phoneNumber": "(808) 988-2058",
+        "tax": 0.36,
+        "total": 8.0,
+        "receiptDate": "07/30/22",
+        "receiptTime": "11:46",
+        "ITEMS": [
+            {
+                "description": "HAAGEN DAZS COFFEEAC",
+                "quantity": 1,
+                "unitPrice": 7.49,
+                "totalPrice": 7.49
+            },
+            {
+                "description": "MR RCYCBLE BAG CHARGE",
+                "quantity": 1,
+                "unitPrice": 0.15,
+                "totalPrice": 0.15
+            }
+        ]
+    }
+}

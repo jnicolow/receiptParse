@@ -1,0 +1,29 @@
+{
+    "ReceiptInfo": {
+        "merchant": "Welcome to <UNKNOWN>",
+        "address": "2560 McCarthy Mall Honolulu, HI 96822",
+        "city": "Honolulu",
+        "state": "HI",
+        "phoneNumber": "(808) 956-6728",
+        "tax": 0.47,
+        "total": 10.45,
+        "receiptDate": "9/21/2023",
+        "receiptTime": "12:55 PM",
+        "ITEMS": [
+            {
+                "description": "1 Md Ice Orig Latte",
+                "quantity": 1,
+                "unitPrice": 5.19,
+                "totalPrice": 5.19,
+                "discountAmount": null
+            },
+            {
+                "description": "1 Chkn RstdPep Wrap",
+                "quantity": 1,
+                "unitPrice": 4.79,
+                "totalPrice": 4.79,
+                "discountAmount": null
+            }
+        ]
+    }
+}

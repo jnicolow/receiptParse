@@ -1,0 +1,27 @@
+{
+    "ReceiptInfo": {
+        "merchant": "KAHEKA STORE",
+        "address": "Ph <UNKNOWN> # 973-4800",
+        "city": "<UNKNOWN>",
+        "state": "<UNKNOWN>",
+        "phoneNumber": "973-4800",
+        "tax": 2.84,
+        "total": 2.97,
+        "receiptDate": "09/21/2023",
+        "receiptTime": "00:44:40",
+        "ITEMS": [
+            {
+                "description": "CHINESE PARSLEY CILA",
+                "quantity": 1,
+                "unitPrice": 2.69,
+                "totalPrice": 2.69
+            },
+            {
+                "description": "PAPER BAG TIMES",
+                "quantity": 1,
+                "unitPrice": 0.15,
+                "totalPrice": 0.15
+            }
+        ]
+    }
+}

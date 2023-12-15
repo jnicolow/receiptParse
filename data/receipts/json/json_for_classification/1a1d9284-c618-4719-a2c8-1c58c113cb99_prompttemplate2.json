@@ -1,0 +1,29 @@
+{
+    "ReceiptInfo": {
+        "merchant": "Oahu Honolulu Ala Moana",
+        "address": "1450 Ala Moana Blvd, Ste 2401, <UNKNOWN> Hawaii 96814-4604",
+        "city": "<UNKNOWN>",
+        "state": "Hawaii",
+        "phoneNumber": "808-206-7162",
+        "tax": 2.17,
+        "total": 48.15,
+        "receiptDate": "08/24/2022",
+        "receiptTime": "06:52 PM",
+        "ITEMS": [
+            {
+                "description": "088039828 ProCat",
+                "quantity": 1,
+                "unitPrice": 29.99,
+                "totalPrice": 29.99,
+                "discountAmount": null
+            },
+            {
+                "description": "088036622 ProCat Puna",
+                "quantity": 1,
+                "unitPrice": 15.99,
+                "totalPrice": 15.99,
+                "discountAmount": null
+            }
+        ]
+    }
+}

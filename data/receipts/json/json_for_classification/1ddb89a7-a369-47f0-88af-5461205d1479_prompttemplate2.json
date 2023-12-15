@@ -1,0 +1,22 @@
+{
+    "ReceiptInfo": {
+        "merchant": "ABC STORES",
+        "address": "1450 ALA MOANA BLVD HONOLULU, HI 96814",
+        "city": "HONOLULU",
+        "state": "HI",
+        "phoneNumber": "(808) 952-5334",
+        "tax": 0.16,
+        "total": 3.71,
+        "receiptDate": "JUL 22 2023",
+        "receiptTime": "20:02",
+        "ITEMS": [
+            {
+                "description": "EVIAN WATER LTR",
+                "quantity": 1,
+                "unitPrice": 3.49,
+                "totalPrice": 3.49,
+                "discountAmount": null
+            }
+        ]
+    }
+}

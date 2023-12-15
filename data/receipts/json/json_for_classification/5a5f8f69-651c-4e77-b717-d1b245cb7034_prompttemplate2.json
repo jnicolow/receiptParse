@@ -1,0 +1,39 @@
+{
+    "ReceiptInfo": {
+        "merchant": "Foodland Farms",
+        "address": "1150 Kuala Street Pearl City, HI 96782",
+        "city": "Pearl City",
+        "state": "HI",
+        "phoneNumber": "808-453-1850",
+        "tax": 1.04,
+        "total": 23.11,
+        "receiptDate": "<UNKNOWN>",
+        "receiptTime": "<UNKNOWN>",
+        "ITEMS": [
+            {
+                "description": "<UNKNOWN> FARMS <UNKNOWN>",
+                "quantity": 1,
+                "unitPrice": 4.79,
+                "totalPrice": 4.79
+            },
+            {
+                "description": "=SH WHOLE MILK PC",
+                "quantity": 1,
+                "unitPrice": 4.79,
+                "totalPrice": 4.79
+            },
+            {
+                "description": "QKR CHEWY GRANOLA PC",
+                "quantity": 1,
+                "unitPrice": 4.5,
+                "totalPrice": 4.5
+            },
+            {
+                "description": "MUFFINS-MINI BLBRYPC",
+                "quantity": 1,
+                "unitPrice": 7.99,
+                "totalPrice": 7.99
+            }
+        ]
+    }
+}

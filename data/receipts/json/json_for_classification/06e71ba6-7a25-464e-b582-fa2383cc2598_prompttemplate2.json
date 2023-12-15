@@ -1,0 +1,45 @@
+{
+    "ReceiptInfo": {
+        "merchant": "Store 215 Dir Dane Elder",
+        "address": "377 Keahole Street HONOLULU HI 96825",
+        "city": "HONOLULU",
+        "state": "HI",
+        "phoneNumber": "(808) 396-6337",
+        "tax": 1.64,
+        "total": 36.38,
+        "receiptDate": "10/13/23",
+        "receiptTime": "19:27",
+        "ITEMS": [
+            {
+                "description": "OYSTER SAUCE 180Z",
+                "quantity": 1,
+                "unitPrice": 6.79,
+                "totalPrice": 6.79
+            },
+            {
+                "description": "QRT CK LEMON",
+                "quantity": 1,
+                "unitPrice": 8.99,
+                "totalPrice": 8.99
+            },
+            {
+                "description": "NY STYLE GRND PORK",
+                "quantity": 1,
+                "unitPrice": 6.49,
+                "totalPrice": 6.49
+            },
+            {
+                "description": "GREEN CABBAGE",
+                "quantity": 1,
+                "unitPrice": 7.98,
+                "totalPrice": 7.98
+            },
+            {
+                "description": "REDUCED BANANAS",
+                "quantity": 1,
+                "unitPrice": 4.49,
+                "totalPrice": 4.49
+            }
+        ]
+    }
+}

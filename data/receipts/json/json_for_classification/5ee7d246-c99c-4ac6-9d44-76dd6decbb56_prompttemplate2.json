@@ -1,0 +1,22 @@
+{
+    "ReceiptInfo": {
+        "merchant": "Honolulu Intl Airport 0169",
+        "address": "300 RODGERS BLVD UNIT 30",
+        "city": "Honolulu",
+        "state": "HI",
+        "phoneNumber": "null",
+        "tax": null,
+        "total": 3.0,
+        "receiptDate": "18 Jun 23",
+        "receiptTime": "15:27",
+        "ITEMS": [
+            {
+                "description": "Parking Fee",
+                "quantity": 1,
+                "unitPrice": 3.0,
+                "totalPrice": 3.0,
+                "discountAmount": null
+            }
+        ]
+    }
+}

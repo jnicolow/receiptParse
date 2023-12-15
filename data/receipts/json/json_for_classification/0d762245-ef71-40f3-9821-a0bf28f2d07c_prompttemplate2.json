@@ -1,0 +1,29 @@
+{
+    "ReceiptInfo": {
+        "merchant": "2HI001 See's Candies, Inc",
+        "address": "4211 <UNKNOWN> Ave Honolulu, HI 96816",
+        "city": "Honolulu",
+        "state": "HI",
+        "phoneNumber": "808-737-9592",
+        "tax": null,
+        "total": 10.55,
+        "receiptDate": "4/25/22",
+        "receiptTime": "6:50 PM",
+        "ITEMS": [
+            {
+                "description": "BULK CANDY",
+                "quantity": 0.32,
+                "unitPrice": 31.5,
+                "totalPrice": 10.08,
+                "discountAmount": 0.0
+            },
+            {
+                "description": "HI1 Candy",
+                "quantity": 0.47,
+                "unitPrice": null,
+                "totalPrice": 10.55,
+                "discountAmount": 0.0
+            }
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "ReceiptInfo": {
+        "merchant": "Whole Foods Market",
+        "address": "4211 Waialae Ave Ste 2000 Honolulu, HI 96816 5340",
+        "city": "Honolulu",
+        "state": "HI",
+        "phoneNumber": "808-738-0820",
+        "tax": 0.25,
+        "total": 5.64,
+        "receiptDate": "06/25/2023",
+        "receiptTime": "02:44 PM",
+        "ITEMS": [
+            {
+                "description": "LTRBK JAPANESE WHIT BREAD",
+                "quantity": 1,
+                "unitPrice": 5.39,
+                "totalPrice": 5.39
+            }
+        ]
+    }
+}
